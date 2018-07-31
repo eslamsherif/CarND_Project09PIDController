@@ -1,8 +1,10 @@
 #ifndef PID_H
 #define PID_H
 
+#include "PIDcfg.h"
+
 class PID {
-public:
+private:
   /*
   * Errors
   */
@@ -17,6 +19,7 @@ public:
   double Ki;
   double Kd;
 
+public:
   /*
   * Constructor
   */
@@ -30,7 +33,7 @@ public:
   /*
   * Initialize PID.
   */
-  void Init(double Kp, double Ki, double Kd);
+  void Init(double __Kp = PROPORTIONAL_GAIN, double __Ki = DIFFERENTIAL_GAIN, double __Kd = INTEGRAL_GAIN);
 
   /*
   * Update the PID error variables given cross track error.

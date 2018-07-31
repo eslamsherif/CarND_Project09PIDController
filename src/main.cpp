@@ -3,9 +3,19 @@
 #include "json.hpp"
 #include "PID.h"
 #include <math.h>
+#include <stdlib.h>
+
+using namespace std;
 
 // for convenience
 using json = nlohmann::json;
+
+enum GainIdx
+{
+  PGain = 1,
+  IGain,
+  DGain
+};
 
 // For converting back and forth between radians and degrees.
 constexpr double pi() { return M_PI; }
@@ -28,11 +38,31 @@ std::string hasData(std::string s) {
   return "";
 }
 
-int main()
+int main(int argc, char *argv[])
 {
   uWS::Hub h;
 
   PID pid;
+
+  if( ( DGain + 1U ) == argc )
+  {
+    double Gp = atof(argv[PGain]);
+    double Gi = atof(argv[IGain]);
+    double Gd = atof(argv[DGain]);
+
+    pid.Init( Gp , Gi, Gd);
+  }
+  else if( 1U == argc )
+  {
+    pid.Init();
+  }
+  else
+  {
+    cout << "Incorrect number of arguments." << endl;
+    cout << "Please call as ./pid if no tuning is needed." << endl;
+    cout << "Please call as ./pid Gp Gi Gd if tuning is needed." << endl;
+    exit(1);
+  }
   // TODO: Initialize the pid variable.
 
   h.onMessage([&pid](uWS::WebSocket<uWS::SERVER> ws, char *data, size_t length, uWS::OpCode opCode) {
@@ -50,7 +80,7 @@ int main()
           double cte = std::stod(j[1]["cte"].get<std::string>());
           double speed = std::stod(j[1]["speed"].get<std::string>());
           double angle = std::stod(j[1]["steering_angle"].get<std::string>());
-          double steer_value;
+          double steer_value = 0;
           /*
           * TODO: Calcuate steering value here, remember the steering value is
           * [-1, 1].
