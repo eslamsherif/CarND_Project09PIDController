@@ -1,0 +1,9 @@
+P_1_I_1_D_1.png:
+
+- The first time to run the pid all gains are set to one so all of the curves fall on top of each other
+Implementation seems ok, though still the dt for differential gain is assumed to be 1
+The car performance seems to be as if it is a P only controller
+
+Car crashed after less than 4 secs.
+
+Next step tuning the gains.

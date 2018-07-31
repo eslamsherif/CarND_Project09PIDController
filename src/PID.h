@@ -19,6 +19,8 @@ private:
   double Ki;
   double Kd;
 
+  double previous_cte;
+
 public:
   /*
   * Constructor
