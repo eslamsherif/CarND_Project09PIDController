@@ -3,9 +3,12 @@
 #include "json.hpp"
 #include "PID.h"
 #include <math.h>
+#include <cmath>
 #include <stdlib.h>
 
 using namespace std;
+
+static double Thrttle_u = 0.1;
 
 // for convenience
 using json = nlohmann::json;
@@ -14,7 +17,8 @@ enum GainIdx
 {
   PGain = 1,
   IGain,
-  DGain
+  DGain,
+  Throttle
 };
 
 // For converting back and forth between radians and degrees.
@@ -44,13 +48,14 @@ int main(int argc, char *argv[])
 
   PID StrAngPid;
 
-  if( ( DGain + 1U ) == argc )
+  if( ( Throttle + 1U ) == argc )
   {
     double Gp = atof(argv[PGain]);
     double Gi = atof(argv[IGain]);
     double Gd = atof(argv[DGain]);
+    Thrttle_u = atof(argv[Throttle]);
 
-    StrAngPid.Init( Gp , Gi, Gd);
+    StrAngPid.Init( Gp , Gi, Gd, -1.0, 1.0);
   }
   else if( 1U == argc )
   {
@@ -80,12 +85,13 @@ int main(int argc, char *argv[])
           double speed = std::stod(j[1]["speed"].get<std::string>());
           double angle = std::stod(j[1]["steering_angle"].get<std::string>());
           
-          cout << "CTE           " << cte << endl;
+          cout << "CTE         = " << cte << endl;
           
-          StrAngPid.UpdateError(cte);
+          /* TODO: support having a delta time calculated */
+          StrAngPid.UpdateError(cte, 1U);
           
-          double steer_value = StrAngPid.TotalError();
-          double throttle_value = 0.1;
+          double steer_value    = StrAngPid.TotalError();
+          double throttle_value = Thrttle_u - (Thrttle_u * fabs(steer_value));
           
           /*
           * TODO: Calcuate steering value here, remember the steering value is

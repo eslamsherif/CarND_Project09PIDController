@@ -21,6 +21,9 @@ private:
 
   double previous_cte;
 
+  double max_out;
+  double min_out;
+
 public:
   /*
   * Constructor
@@ -35,12 +38,16 @@ public:
   /*
   * Initialize PID.
   */
-  void Init(double __Kp = PROPORTIONAL_GAIN, double __Ki = DIFFERENTIAL_GAIN, double __Kd = INTEGRAL_GAIN);
+  void Init(double __Kp = PROPORTIONAL_GAIN,
+            double __Ki = DIFFERENTIAL_GAIN,
+            double __Kd = INTEGRAL_GAIN,
+            double __min_out = 0U,
+            double __max_out = 0U);
 
   /*
   * Update the PID error variables given cross track error.
   */
-  void UpdateError(double cte);
+  void UpdateError(double cte, double __dt);
 
   /*
   * Calculate the total PID error.

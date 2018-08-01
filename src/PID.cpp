@@ -14,11 +14,14 @@ PID::PID() {}
 
 PID::~PID() {}
 
-void PID::Init(double __Kp, double __Ki, double __Kd)
+void PID::Init(double __Kp, double __Ki, double __Kd, double __min_out, double __max_out)
 {
   Kp = __Kp;
   Ki = __Ki;
   Kd = __Kd;
+
+  max_out = __max_out;
+  min_out = __min_out;
 
   p_error = 0UL;
   i_error = 0UL;
@@ -34,23 +37,21 @@ void PID::Init(double __Kp, double __Ki, double __Kd)
   #endif
 }
 
-void PID::UpdateError(double cte)
+void PID::UpdateError(double __cte, double __dt)
 {
-  double dt = 1UL;
-
   if(0U == previous_cte)
   {
-    previous_cte = cte;
+    previous_cte = __cte;
   }
 
-  p_error  = cte;
-  i_error += cte;
-  d_error  = ( (cte - previous_cte) / dt );
+  p_error  = __cte;
+  i_error += __cte;
+  d_error  = ( (__cte - previous_cte) / __dt );
 
-  previous_cte = cte;
+  previous_cte = __cte;
 
   #ifdef DEBUG_UPDATEERROR
-  cout << "CTE           " << cte << endl;
+  cout << "CTE           " << __cte << endl;
   cout << "p_error     = " << p_error << endl;
   cout << "i_error     = " << i_error << endl;
   cout << "d_error     = " << d_error << endl;
@@ -64,6 +65,15 @@ double PID::TotalError()
   double DTerm = Kd * d_error;
 
   double toterr = -1 * (PTerm + ITerm + DTerm);
+
+  if(toterr > max_out)
+  {
+    toterr = max_out;
+  }
+  else if(toterr < min_out)
+  {
+    toterr = min_out;
+  }
 
   #ifdef DEBUG_TOTALERROR
   cout << "PTerm       = " << PTerm << endl;
