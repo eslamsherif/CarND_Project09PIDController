@@ -1,0 +1,7497 @@
+Listening to port 4567
+Connected!!!
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7598
+PTerm       = 26.593
+ITerm       = 0
+DTerm       = 0
+Total error = -26.593
+CTE           0.7599
+PTerm       = 26.5965
+ITerm       = 0
+DTerm       = 0
+Total error = -26.5965
+CTE           0.7599
+PTerm       = 26.5965
+ITerm       = 0
+DTerm       = 0
+Total error = -26.5965
+CTE           0.7596
+PTerm       = 26.586
+ITerm       = 0
+DTerm       = -0
+Total error = -26.586
+CTE           0.7596
+PTerm       = 26.586
+ITerm       = 0
+DTerm       = 0
+Total error = -26.586
+CTE           0.7596
+PTerm       = 26.586
+ITerm       = 0
+DTerm       = 0
+Total error = -26.586
+CTE           0.7594
+PTerm       = 26.579
+ITerm       = 0
+DTerm       = -0
+Total error = -26.579
+CTE           0.7594
+PTerm       = 26.579
+ITerm       = 0
+DTerm       = 0
+Total error = -26.579
+CTE           0.7593
+PTerm       = 26.5755
+ITerm       = 0
+DTerm       = -0
+Total error = -26.5755
+CTE           0.7593
+PTerm       = 26.5755
+ITerm       = 0
+DTerm       = 0
+Total error = -26.5755
+CTE           0.759
+PTerm       = 26.565
+ITerm       = 0
+DTerm       = -0
+Total error = -26.565
+CTE           0.759
+PTerm       = 26.565
+ITerm       = 0
+DTerm       = 0
+Total error = -26.565
+CTE           0.759
+PTerm       = 26.565
+ITerm       = 0
+DTerm       = 0
+Total error = -26.565
+CTE           0.7589
+PTerm       = 26.5615
+ITerm       = 0
+DTerm       = -0
+Total error = -26.5615
+CTE           0.7589
+PTerm       = 26.5615
+ITerm       = 0
+DTerm       = 0
+Total error = -26.5615
+CTE           0.7587
+PTerm       = 26.5545
+ITerm       = 0
+DTerm       = -0
+Total error = -26.5545
+CTE           0.7587
+PTerm       = 26.5545
+ITerm       = 0
+DTerm       = 0
+Total error = -26.5545
+CTE           0.7585
+PTerm       = 26.5475
+ITerm       = 0
+DTerm       = -0
+Total error = -26.5475
+CTE           0.7585
+PTerm       = 26.5475
+ITerm       = 0
+DTerm       = 0
+Total error = -26.5475
+CTE           0.7584
+PTerm       = 26.544
+ITerm       = 0
+DTerm       = -0
+Total error = -26.544
+CTE           0.7584
+PTerm       = 26.544
+ITerm       = 0
+DTerm       = 0
+Total error = -26.544
+CTE           0.7584
+PTerm       = 26.544
+ITerm       = 0
+DTerm       = 0
+Total error = -26.544
+CTE           0.7582
+PTerm       = 26.537
+ITerm       = 0
+DTerm       = -0
+Total error = -26.537
+CTE           0.7582
+PTerm       = 26.537
+ITerm       = 0
+DTerm       = 0
+Total error = -26.537
+CTE           0.758
+PTerm       = 26.53
+ITerm       = 0
+DTerm       = -0
+Total error = -26.53
+CTE           0.758
+PTerm       = 26.53
+ITerm       = 0
+DTerm       = 0
+Total error = -26.53
+CTE           0.7577
+PTerm       = 26.5195
+ITerm       = 0
+DTerm       = -0
+Total error = -26.5195
+CTE           0.7577
+PTerm       = 26.5195
+ITerm       = 0
+DTerm       = 0
+Total error = -26.5195
+CTE           0.7577
+PTerm       = 26.5195
+ITerm       = 0
+DTerm       = 0
+Total error = -26.5195
+CTE           0.7574
+PTerm       = 26.509
+ITerm       = 0
+DTerm       = -0
+Total error = -26.509
+CTE           0.7574
+PTerm       = 26.509
+ITerm       = 0
+DTerm       = 0
+Total error = -26.509
+CTE           0.7571
+PTerm       = 26.4985
+ITerm       = 0
+DTerm       = -0
+Total error = -26.4985
+CTE           0.7571
+PTerm       = 26.4985
+ITerm       = 0
+DTerm       = 0
+Total error = -26.4985
+CTE           0.7571
+PTerm       = 26.4985
+ITerm       = 0
+DTerm       = 0
+Total error = -26.4985
+CTE           0.7567
+PTerm       = 26.4845
+ITerm       = 0
+DTerm       = -0
+Total error = -26.4845
+CTE           0.7567
+PTerm       = 26.4845
+ITerm       = 0
+DTerm       = 0
+Total error = -26.4845
+CTE           0.7563
+PTerm       = 26.4705
+ITerm       = 0
+DTerm       = -0
+Total error = -26.4705
+CTE           0.7563
+PTerm       = 26.4705
+ITerm       = 0
+DTerm       = 0
+Total error = -26.4705
+CTE           0.7558
+PTerm       = 26.453
+ITerm       = 0
+DTerm       = -0
+Total error = -26.453
+CTE           0.7558
+PTerm       = 26.453
+ITerm       = 0
+DTerm       = 0
+Total error = -26.453
+CTE           0.7558
+PTerm       = 26.453
+ITerm       = 0
+DTerm       = 0
+Total error = -26.453
+CTE           0.7554
+PTerm       = 26.439
+ITerm       = 0
+DTerm       = -0
+Total error = -26.439
+CTE           0.7554
+PTerm       = 26.439
+ITerm       = 0
+DTerm       = 0
+Total error = -26.439
+CTE           0.755
+PTerm       = 26.425
+ITerm       = 0
+DTerm       = -0
+Total error = -26.425
+CTE           0.755
+PTerm       = 26.425
+ITerm       = 0
+DTerm       = 0
+Total error = -26.425
+CTE           0.755
+PTerm       = 26.425
+ITerm       = 0
+DTerm       = 0
+Total error = -26.425
+CTE           0.7545
+PTerm       = 26.4075
+ITerm       = 0
+DTerm       = -0
+Total error = -26.4075
+CTE           0.7545
+PTerm       = 26.4075
+ITerm       = 0
+DTerm       = 0
+Total error = -26.4075
+CTE           0.7541
+PTerm       = 26.3935
+ITerm       = 0
+DTerm       = -0
+Total error = -26.3935
+CTE           0.7541
+PTerm       = 26.3935
+ITerm       = 0
+DTerm       = 0
+Total error = -26.3935
+CTE           0.7535
+PTerm       = 26.3725
+ITerm       = 0
+DTerm       = -0
+Total error = -26.3725
+CTE           0.7535
+PTerm       = 26.3725
+ITerm       = 0
+DTerm       = 0
+Total error = -26.3725
+CTE           0.7535
+PTerm       = 26.3725
+ITerm       = 0
+DTerm       = 0
+Total error = -26.3725
+CTE           0.7529
+PTerm       = 26.3515
+ITerm       = 0
+DTerm       = -0
+Total error = -26.3515
+CTE           0.7529
+PTerm       = 26.3515
+ITerm       = 0
+DTerm       = 0
+Total error = -26.3515
+CTE           0.7524
+PTerm       = 26.334
+ITerm       = 0
+DTerm       = -0
+Total error = -26.334
+CTE           0.7524
+PTerm       = 26.334
+ITerm       = 0
+DTerm       = 0
+Total error = -26.334
+CTE           0.7524
+PTerm       = 26.334
+ITerm       = 0
+DTerm       = 0
+Total error = -26.334
+CTE           0.7519
+PTerm       = 26.3165
+ITerm       = 0
+DTerm       = -0
+Total error = -26.3165
+CTE           0.7519
+PTerm       = 26.3165
+ITerm       = 0
+DTerm       = 0
+Total error = -26.3165
+CTE           0.7513
+PTerm       = 26.2955
+ITerm       = 0
+DTerm       = -0
+Total error = -26.2955
+CTE           0.7506
+PTerm       = 26.271
+ITerm       = 0
+DTerm       = -0
+Total error = -26.271
+CTE           0.7506
+PTerm       = 26.271
+ITerm       = 0
+DTerm       = 0
+Total error = -26.271
+CTE           0.7506
+PTerm       = 26.271
+ITerm       = 0
+DTerm       = 0
+Total error = -26.271
+CTE           0.75
+PTerm       = 26.25
+ITerm       = 0
+DTerm       = -0
+Total error = -26.25
+CTE           0.75
+PTerm       = 26.25
+ITerm       = 0
+DTerm       = 0
+Total error = -26.25
+CTE           0.7494
+PTerm       = 26.229
+ITerm       = 0
+DTerm       = -0
+Total error = -26.229
+CTE           0.7494
+PTerm       = 26.229
+ITerm       = 0
+DTerm       = 0
+Total error = -26.229
+CTE           0.7487
+PTerm       = 26.2045
+ITerm       = 0
+DTerm       = -0
+Total error = -26.2045
+CTE           0.7487
+PTerm       = 26.2045
+ITerm       = 0
+DTerm       = 0
+Total error = -26.2045
+CTE           0.7487
+PTerm       = 26.2045
+ITerm       = 0
+DTerm       = 0
+Total error = -26.2045
+CTE           0.748
+PTerm       = 26.18
+ITerm       = 0
+DTerm       = -0
+Total error = -26.18
+CTE           0.748
+PTerm       = 26.18
+ITerm       = 0
+DTerm       = 0
+Total error = -26.18
+CTE           0.7472
+PTerm       = 26.152
+ITerm       = 0
+DTerm       = -0
+Total error = -26.152
+CTE           0.7472
+PTerm       = 26.152
+ITerm       = 0
+DTerm       = 0
+Total error = -26.152
+CTE           0.7472
+PTerm       = 26.152
+ITerm       = 0
+DTerm       = 0
+Total error = -26.152
+CTE           0.7464
+PTerm       = 26.124
+ITerm       = 0
+DTerm       = -0
+Total error = -26.124
+CTE           0.7464
+PTerm       = 26.124
+ITerm       = 0
+DTerm       = 0
+Total error = -26.124
+CTE           0.7456
+PTerm       = 26.096
+ITerm       = 0
+DTerm       = -0
+Total error = -26.096
+CTE           0.7456
+PTerm       = 26.096
+ITerm       = 0
+DTerm       = 0
+Total error = -26.096
+CTE           0.7448
+PTerm       = 26.068
+ITerm       = 0
+DTerm       = -0
+Total error = -26.068
+CTE           0.7448
+PTerm       = 26.068
+ITerm       = 0
+DTerm       = 0
+Total error = -26.068
+CTE           0.7448
+PTerm       = 26.068
+ITerm       = 0
+DTerm       = 0
+Total error = -26.068
+CTE           0.7439
+PTerm       = 26.0365
+ITerm       = 0
+DTerm       = -0
+Total error = -26.0365
+CTE           0.7439
+PTerm       = 26.0365
+ITerm       = 0
+DTerm       = 0
+Total error = -26.0365
+CTE           0.743
+PTerm       = 26.005
+ITerm       = 0
+DTerm       = -0
+Total error = -26.005
+CTE           0.743
+PTerm       = 26.005
+ITerm       = 0
+DTerm       = 0
+Total error = -26.005
+CTE           0.7422
+PTerm       = 25.977
+ITerm       = 0
+DTerm       = -0
+Total error = -25.977
+CTE           0.7422
+PTerm       = 25.977
+ITerm       = 0
+DTerm       = 0
+Total error = -25.977
+CTE           0.7422
+PTerm       = 25.977
+ITerm       = 0
+DTerm       = 0
+Total error = -25.977
+CTE           0.7413
+PTerm       = 25.9455
+ITerm       = 0
+DTerm       = -0
+Total error = -25.9455
+CTE           0.7413
+PTerm       = 25.9455
+ITerm       = 0
+DTerm       = 0
+Total error = -25.9455
+CTE           0.7404
+PTerm       = 25.914
+ITerm       = 0
+DTerm       = -0
+Total error = -25.914
+CTE           0.7404
+PTerm       = 25.914
+ITerm       = 0
+DTerm       = 0
+Total error = -25.914
+CTE           0.7395
+PTerm       = 25.8825
+ITerm       = 0
+DTerm       = -0
+Total error = -25.8825
+CTE           0.7395
+PTerm       = 25.8825
+ITerm       = 0
+DTerm       = 0
+Total error = -25.8825
+CTE           0.7395
+PTerm       = 25.8825
+ITerm       = 0
+DTerm       = 0
+Total error = -25.8825
+CTE           0.7384
+PTerm       = 25.844
+ITerm       = 0
+DTerm       = -0
+Total error = -25.844
+CTE           0.7384
+PTerm       = 25.844
+ITerm       = 0
+DTerm       = 0
+Total error = -25.844
+CTE           0.7374
+PTerm       = 25.809
+ITerm       = 0
+DTerm       = -0
+Total error = -25.809
+CTE           0.7374
+PTerm       = 25.809
+ITerm       = 0
+DTerm       = 0
+Total error = -25.809
+CTE           0.7363
+PTerm       = 25.7705
+ITerm       = 0
+DTerm       = -0
+Total error = -25.7705
+CTE           0.7363
+PTerm       = 25.7705
+ITerm       = 0
+DTerm       = 0
+Total error = -25.7705
+CTE           0.7363
+PTerm       = 25.7705
+ITerm       = 0
+DTerm       = 0
+Total error = -25.7705
+CTE           0.7352
+PTerm       = 25.732
+ITerm       = 0
+DTerm       = -0
+Total error = -25.732
+CTE           0.7352
+PTerm       = 25.732
+ITerm       = 0
+DTerm       = 0
+Total error = -25.732
+CTE           0.734
+PTerm       = 25.69
+ITerm       = 0
+DTerm       = -0
+Total error = -25.69
+CTE           0.734
+PTerm       = 25.69
+ITerm       = 0
+DTerm       = 0
+Total error = -25.69
+CTE           0.734
+PTerm       = 25.69
+ITerm       = 0
+DTerm       = 0
+Total error = -25.69
+CTE           0.7327
+PTerm       = 25.6445
+ITerm       = 0
+DTerm       = -0
+Total error = -25.6445
+CTE           0.7327
+PTerm       = 25.6445
+ITerm       = 0
+DTerm       = 0
+Total error = -25.6445
+CTE           0.7314
+PTerm       = 25.599
+ITerm       = 0
+DTerm       = -0
+Total error = -25.599
+CTE           0.7314
+PTerm       = 25.599
+ITerm       = 0
+DTerm       = 0
+Total error = -25.599
+CTE           0.7301
+PTerm       = 25.5535
+ITerm       = 0
+DTerm       = -0
+Total error = -25.5535
+CTE           0.7301
+PTerm       = 25.5535
+ITerm       = 0
+DTerm       = 0
+Total error = -25.5535
+CTE           0.7301
+PTerm       = 25.5535
+ITerm       = 0
+DTerm       = 0
+Total error = -25.5535
+CTE           0.7288
+PTerm       = 25.508
+ITerm       = 0
+DTerm       = -0
+Total error = -25.508
+CTE           0.7288
+PTerm       = 25.508
+ITerm       = 0
+DTerm       = 0
+Total error = -25.508
+CTE           0.7274
+PTerm       = 25.459
+ITerm       = 0
+DTerm       = -0
+Total error = -25.459
+CTE           0.7274
+PTerm       = 25.459
+ITerm       = 0
+DTerm       = 0
+Total error = -25.459
+CTE           0.7261
+PTerm       = 25.4135
+ITerm       = 0
+DTerm       = -0
+Total error = -25.4135
+CTE           0.7261
+PTerm       = 25.4135
+ITerm       = 0
+DTerm       = 0
+Total error = -25.4135
+CTE           0.7261
+PTerm       = 25.4135
+ITerm       = 0
+DTerm       = 0
+Total error = -25.4135
+CTE           0.7246
+PTerm       = 25.361
+ITerm       = 0
+DTerm       = -0
+Total error = -25.361
+CTE           0.7246
+PTerm       = 25.361
+ITerm       = 0
+DTerm       = 0
+Total error = -25.361
+CTE           0.7231
+PTerm       = 25.3085
+ITerm       = 0
+DTerm       = -0
+Total error = -25.3085
+CTE           0.7231
+PTerm       = 25.3085
+ITerm       = 0
+DTerm       = 0
+Total error = -25.3085
+CTE           0.7231
+PTerm       = 25.3085
+ITerm       = 0
+DTerm       = 0
+Total error = -25.3085
+CTE           0.7216
+PTerm       = 25.256
+ITerm       = 0
+DTerm       = -0
+Total error = -25.256
+CTE           0.7216
+PTerm       = 25.256
+ITerm       = 0
+DTerm       = 0
+Total error = -25.256
+CTE           0.72
+PTerm       = 25.2
+ITerm       = 0
+DTerm       = -0
+Total error = -25.2
+CTE           0.72
+PTerm       = 25.2
+ITerm       = 0
+DTerm       = 0
+Total error = -25.2
+CTE           0.7185
+PTerm       = 25.1475
+ITerm       = 0
+DTerm       = -0
+Total error = -25.1475
+CTE           0.7185
+PTerm       = 25.1475
+ITerm       = 0
+DTerm       = 0
+Total error = -25.1475
+CTE           0.7185
+PTerm       = 25.1475
+ITerm       = 0
+DTerm       = 0
+Total error = -25.1475
+CTE           0.7169
+PTerm       = 25.0915
+ITerm       = 0
+DTerm       = -0
+Total error = -25.0915
+CTE           0.7169
+PTerm       = 25.0915
+ITerm       = 0
+DTerm       = 0
+Total error = -25.0915
+CTE           0.7154
+PTerm       = 25.039
+ITerm       = 0
+DTerm       = -0
+Total error = -25.039
+CTE           0.7154
+PTerm       = 25.039
+ITerm       = 0
+DTerm       = 0
+Total error = -25.039
+CTE           0.7138
+PTerm       = 24.983
+ITerm       = 0
+DTerm       = -0
+Total error = -24.983
+CTE           0.7138
+PTerm       = 24.983
+ITerm       = 0
+DTerm       = 0
+Total error = -24.983
+CTE           0.7138
+PTerm       = 24.983
+ITerm       = 0
+DTerm       = 0
+Total error = -24.983
+CTE           0.7122
+PTerm       = 24.927
+ITerm       = 0
+DTerm       = -0
+Total error = -24.927
+CTE           0.7122
+PTerm       = 24.927
+ITerm       = 0
+DTerm       = 0
+Total error = -24.927
+CTE           0.7105
+PTerm       = 24.8675
+ITerm       = 0
+DTerm       = -0
+Total error = -24.8675
+CTE           0.7105
+PTerm       = 24.8675
+ITerm       = 0
+DTerm       = 0
+Total error = -24.8675
+CTE           0.7105
+PTerm       = 24.8675
+ITerm       = 0
+DTerm       = 0
+Total error = -24.8675
+CTE           0.7087
+PTerm       = 24.8045
+ITerm       = 0
+DTerm       = -0
+Total error = -24.8045
+CTE           0.7087
+PTerm       = 24.8045
+ITerm       = 0
+DTerm       = 0
+Total error = -24.8045
+CTE           0.7069
+PTerm       = 24.7415
+ITerm       = 0
+DTerm       = -0
+Total error = -24.7415
+CTE           0.7069
+PTerm       = 24.7415
+ITerm       = 0
+DTerm       = 0
+Total error = -24.7415
+CTE           0.7051
+PTerm       = 24.6785
+ITerm       = 0
+DTerm       = -0
+Total error = -24.6785
+CTE           0.7051
+PTerm       = 24.6785
+ITerm       = 0
+DTerm       = 0
+Total error = -24.6785
+CTE           0.7051
+PTerm       = 24.6785
+ITerm       = 0
+DTerm       = 0
+Total error = -24.6785
+CTE           0.7032
+PTerm       = 24.612
+ITerm       = 0
+DTerm       = -0
+Total error = -24.612
+CTE           0.7032
+PTerm       = 24.612
+ITerm       = 0
+DTerm       = 0
+Total error = -24.612
+CTE           0.7013
+PTerm       = 24.5455
+ITerm       = 0
+DTerm       = -0
+Total error = -24.5455
+CTE           0.7013
+PTerm       = 24.5455
+ITerm       = 0
+DTerm       = 0
+Total error = -24.5455
+CTE           0.6995
+PTerm       = 24.4825
+ITerm       = 0
+DTerm       = -0
+Total error = -24.4825
+CTE           0.6995
+PTerm       = 24.4825
+ITerm       = 0
+DTerm       = 0
+Total error = -24.4825
+CTE           0.6995
+PTerm       = 24.4825
+ITerm       = 0
+DTerm       = 0
+Total error = -24.4825
+CTE           0.6975
+PTerm       = 24.4125
+ITerm       = 0
+DTerm       = -0
+Total error = -24.4125
+CTE           0.6975
+PTerm       = 24.4125
+ITerm       = 0
+DTerm       = 0
+Total error = -24.4125
+CTE           0.6954
+PTerm       = 24.339
+ITerm       = 0
+DTerm       = -0
+Total error = -24.339
+CTE           0.6954
+PTerm       = 24.339
+ITerm       = 0
+DTerm       = 0
+Total error = -24.339
+CTE           0.6933
+PTerm       = 24.2655
+ITerm       = 0
+DTerm       = -0
+Total error = -24.2655
+CTE           0.6933
+PTerm       = 24.2655
+ITerm       = 0
+DTerm       = 0
+Total error = -24.2655
+CTE           0.6933
+PTerm       = 24.2655
+ITerm       = 0
+DTerm       = 0
+Total error = -24.2655
+CTE           0.6913
+PTerm       = 24.1955
+ITerm       = 0
+DTerm       = -0
+Total error = -24.1955
+CTE           0.6913
+PTerm       = 24.1955
+ITerm       = 0
+DTerm       = 0
+Total error = -24.1955
+CTE           0.6891
+PTerm       = 24.1185
+ITerm       = 0
+DTerm       = -0
+Total error = -24.1185
+CTE           0.6891
+PTerm       = 24.1185
+ITerm       = 0
+DTerm       = 0
+Total error = -24.1185
+CTE           0.6891
+PTerm       = 24.1185
+ITerm       = 0
+DTerm       = 0
+Total error = -24.1185
+CTE           0.6871
+PTerm       = 24.0485
+ITerm       = 0
+DTerm       = -0
+Total error = -24.0485
+CTE           0.6871
+PTerm       = 24.0485
+ITerm       = 0
+DTerm       = 0
+Total error = -24.0485
+CTE           0.6849
+PTerm       = 23.9715
+ITerm       = 0
+DTerm       = -0
+Total error = -23.9715
+CTE           0.6849
+PTerm       = 23.9715
+ITerm       = 0
+DTerm       = 0
+Total error = -23.9715
+CTE           0.6827
+PTerm       = 23.8945
+ITerm       = 0
+DTerm       = -0
+Total error = -23.8945
+CTE           0.6827
+PTerm       = 23.8945
+ITerm       = 0
+DTerm       = 0
+Total error = -23.8945
+CTE           0.6827
+PTerm       = 23.8945
+ITerm       = 0
+DTerm       = 0
+Total error = -23.8945
+CTE           0.6804
+PTerm       = 23.814
+ITerm       = 0
+DTerm       = -0
+Total error = -23.814
+CTE           0.6804
+PTerm       = 23.814
+ITerm       = 0
+DTerm       = 0
+Total error = -23.814
+CTE           0.6782
+PTerm       = 23.737
+ITerm       = 0
+DTerm       = -0
+Total error = -23.737
+CTE           0.6782
+PTerm       = 23.737
+ITerm       = 0
+DTerm       = 0
+Total error = -23.737
+CTE           0.6758
+PTerm       = 23.653
+ITerm       = 0
+DTerm       = -0
+Total error = -23.653
+CTE           0.6758
+PTerm       = 23.653
+ITerm       = 0
+DTerm       = 0
+Total error = -23.653
+CTE           0.6758
+PTerm       = 23.653
+ITerm       = 0
+DTerm       = 0
+Total error = -23.653
+CTE           0.6735
+PTerm       = 23.5725
+ITerm       = 0
+DTerm       = -0
+Total error = -23.5725
+CTE           0.6735
+PTerm       = 23.5725
+ITerm       = 0
+DTerm       = 0
+Total error = -23.5725
+CTE           0.6711
+PTerm       = 23.4885
+ITerm       = 0
+DTerm       = -0
+Total error = -23.4885
+CTE           0.6711
+PTerm       = 23.4885
+ITerm       = 0
+DTerm       = 0
+Total error = -23.4885
+CTE           0.6686
+PTerm       = 23.401
+ITerm       = 0
+DTerm       = -0
+Total error = -23.401
+CTE           0.6686
+PTerm       = 23.401
+ITerm       = 0
+DTerm       = 0
+Total error = -23.401
+CTE           0.6686
+PTerm       = 23.401
+ITerm       = 0
+DTerm       = 0
+Total error = -23.401
+CTE           0.6662
+PTerm       = 23.317
+ITerm       = 0
+DTerm       = -0
+Total error = -23.317
+CTE           0.6662
+PTerm       = 23.317
+ITerm       = 0
+DTerm       = 0
+Total error = -23.317
+CTE           0.6637
+PTerm       = 23.2295
+ITerm       = 0
+DTerm       = -0
+Total error = -23.2295
+CTE           0.6637
+PTerm       = 23.2295
+ITerm       = 0
+DTerm       = 0
+Total error = -23.2295
+CTE           0.6637
+PTerm       = 23.2295
+ITerm       = 0
+DTerm       = 0
+Total error = -23.2295
+CTE           0.6612
+PTerm       = 23.142
+ITerm       = 0
+DTerm       = -0
+Total error = -23.142
+CTE           0.6612
+PTerm       = 23.142
+ITerm       = 0
+DTerm       = 0
+Total error = -23.142
+CTE           0.6586
+PTerm       = 23.051
+ITerm       = 0
+DTerm       = -0
+Total error = -23.051
+CTE           0.6586
+PTerm       = 23.051
+ITerm       = 0
+DTerm       = 0
+Total error = -23.051
+CTE           0.6561
+PTerm       = 22.9635
+ITerm       = 0
+DTerm       = -0
+Total error = -22.9635
+CTE           0.6561
+PTerm       = 22.9635
+ITerm       = 0
+DTerm       = 0
+Total error = -22.9635
+CTE           0.6561
+PTerm       = 22.9635
+ITerm       = 0
+DTerm       = 0
+Total error = -22.9635
+CTE           0.6534
+PTerm       = 22.869
+ITerm       = 0
+DTerm       = -0
+Total error = -22.869
+CTE           0.6534
+PTerm       = 22.869
+ITerm       = 0
+DTerm       = 0
+Total error = -22.869
+CTE           0.6507
+PTerm       = 22.7745
+ITerm       = 0
+DTerm       = -0
+Total error = -22.7745
+CTE           0.6507
+PTerm       = 22.7745
+ITerm       = 0
+DTerm       = 0
+Total error = -22.7745
+CTE           0.6507
+PTerm       = 22.7745
+ITerm       = 0
+DTerm       = 0
+Total error = -22.7745
+CTE           0.6481
+PTerm       = 22.6835
+ITerm       = 0
+DTerm       = -0
+Total error = -22.6835
+CTE           0.6481
+PTerm       = 22.6835
+ITerm       = 0
+DTerm       = 0
+Total error = -22.6835
+CTE           0.6454
+PTerm       = 22.589
+ITerm       = 0
+DTerm       = -0
+Total error = -22.589
+CTE           0.6454
+PTerm       = 22.589
+ITerm       = 0
+DTerm       = 0
+Total error = -22.589
+CTE           0.6426
+PTerm       = 22.491
+ITerm       = 0
+DTerm       = -0
+Total error = -22.491
+CTE           0.6426
+PTerm       = 22.491
+ITerm       = 0
+DTerm       = 0
+Total error = -22.491
+CTE           0.6426
+PTerm       = 22.491
+ITerm       = 0
+DTerm       = 0
+Total error = -22.491
+CTE           0.6398
+PTerm       = 22.393
+ITerm       = 0
+DTerm       = -0
+Total error = -22.393
+CTE           0.6398
+PTerm       = 22.393
+ITerm       = 0
+DTerm       = 0
+Total error = -22.393
+CTE           0.6368
+PTerm       = 22.288
+ITerm       = 0
+DTerm       = -0
+Total error = -22.288
+CTE           0.6368
+PTerm       = 22.288
+ITerm       = 0
+DTerm       = 0
+Total error = -22.288
+CTE           0.6338
+PTerm       = 22.183
+ITerm       = 0
+DTerm       = -0
+Total error = -22.183
+CTE           0.6338
+PTerm       = 22.183
+ITerm       = 0
+DTerm       = 0
+Total error = -22.183
+CTE           0.6338
+PTerm       = 22.183
+ITerm       = 0
+DTerm       = 0
+Total error = -22.183
+CTE           0.6307
+PTerm       = 22.0745
+ITerm       = 0
+DTerm       = -0
+Total error = -22.0745
+CTE           0.6307
+PTerm       = 22.0745
+ITerm       = 0
+DTerm       = 0
+Total error = -22.0745
+CTE           0.6275
+PTerm       = 21.9625
+ITerm       = 0
+DTerm       = -0
+Total error = -21.9625
+CTE           0.6275
+PTerm       = 21.9625
+ITerm       = 0
+DTerm       = 0
+Total error = -21.9625
+CTE           0.6275
+PTerm       = 21.9625
+ITerm       = 0
+DTerm       = 0
+Total error = -21.9625
+CTE           0.6243
+PTerm       = 21.8505
+ITerm       = 0
+DTerm       = -0
+Total error = -21.8505
+CTE           0.6243
+PTerm       = 21.8505
+ITerm       = 0
+DTerm       = 0
+Total error = -21.8505
+CTE           0.621
+PTerm       = 21.735
+ITerm       = 0
+DTerm       = -0
+Total error = -21.735
+CTE           0.621
+PTerm       = 21.735
+ITerm       = 0
+DTerm       = 0
+Total error = -21.735
+CTE           0.6177
+PTerm       = 21.6195
+ITerm       = 0
+DTerm       = -0
+Total error = -21.6195
+CTE           0.6177
+PTerm       = 21.6195
+ITerm       = 0
+DTerm       = 0
+Total error = -21.6195
+CTE           0.6144
+PTerm       = 21.504
+ITerm       = 0
+DTerm       = -0
+Total error = -21.504
+CTE           0.6144
+PTerm       = 21.504
+ITerm       = 0
+DTerm       = 0
+Total error = -21.504
+CTE           0.6109
+PTerm       = 21.3815
+ITerm       = 0
+DTerm       = -0
+Total error = -21.3815
+CTE           0.6109
+PTerm       = 21.3815
+ITerm       = 0
+DTerm       = 0
+Total error = -21.3815
+CTE           0.6074
+PTerm       = 21.259
+ITerm       = 0
+DTerm       = -0
+Total error = -21.259
+CTE           0.6074
+PTerm       = 21.259
+ITerm       = 0
+DTerm       = 0
+Total error = -21.259
+CTE           0.6074
+PTerm       = 21.259
+ITerm       = 0
+DTerm       = 0
+Total error = -21.259
+CTE           0.6039
+PTerm       = 21.1365
+ITerm       = 0
+DTerm       = -0
+Total error = -21.1365
+CTE           0.6039
+PTerm       = 21.1365
+ITerm       = 0
+DTerm       = 0
+Total error = -21.1365
+CTE           0.6003
+PTerm       = 21.0105
+ITerm       = 0
+DTerm       = -0
+Total error = -21.0105
+CTE           0.6003
+PTerm       = 21.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -21.0105
+CTE           0.5965
+PTerm       = 20.8775
+ITerm       = 0
+DTerm       = -0
+Total error = -20.8775
+CTE           0.5965
+PTerm       = 20.8775
+ITerm       = 0
+DTerm       = 0
+Total error = -20.8775
+CTE           0.5926
+PTerm       = 20.741
+ITerm       = 0
+DTerm       = -0
+Total error = -20.741
+CTE           0.5926
+PTerm       = 20.741
+ITerm       = 0
+DTerm       = 0
+Total error = -20.741
+CTE           0.5888
+PTerm       = 20.608
+ITerm       = 0
+DTerm       = -0
+Total error = -20.608
+CTE           0.5888
+PTerm       = 20.608
+ITerm       = 0
+DTerm       = 0
+Total error = -20.608
+CTE           0.5849
+PTerm       = 20.4715
+ITerm       = 0
+DTerm       = -0
+Total error = -20.4715
+CTE           0.5849
+PTerm       = 20.4715
+ITerm       = 0
+DTerm       = 0
+Total error = -20.4715
+CTE           0.5849
+PTerm       = 20.4715
+ITerm       = 0
+DTerm       = 0
+Total error = -20.4715
+CTE           0.5809
+PTerm       = 20.3315
+ITerm       = 0
+DTerm       = -0
+Total error = -20.3315
+CTE           0.5809
+PTerm       = 20.3315
+ITerm       = 0
+DTerm       = 0
+Total error = -20.3315
+CTE           0.5768
+PTerm       = 20.188
+ITerm       = 0
+DTerm       = -0
+Total error = -20.188
+CTE           0.5768
+PTerm       = 20.188
+ITerm       = 0
+DTerm       = 0
+Total error = -20.188
+CTE           0.5727
+PTerm       = 20.0445
+ITerm       = 0
+DTerm       = -0
+Total error = -20.0445
+CTE           0.5727
+PTerm       = 20.0445
+ITerm       = 0
+DTerm       = 0
+Total error = -20.0445
+CTE           0.5684
+PTerm       = 19.894
+ITerm       = 0
+DTerm       = -0
+Total error = -19.894
+CTE           0.5684
+PTerm       = 19.894
+ITerm       = 0
+DTerm       = 0
+Total error = -19.894
+CTE           0.5642
+PTerm       = 19.747
+ITerm       = 0
+DTerm       = -0
+Total error = -19.747
+CTE           0.5642
+PTerm       = 19.747
+ITerm       = 0
+DTerm       = 0
+Total error = -19.747
+CTE           0.5642
+PTerm       = 19.747
+ITerm       = 0
+DTerm       = 0
+Total error = -19.747
+CTE           0.5599
+PTerm       = 19.5965
+ITerm       = 0
+DTerm       = -0
+Total error = -19.5965
+CTE           0.5599
+PTerm       = 19.5965
+ITerm       = 0
+DTerm       = 0
+Total error = -19.5965
+CTE           0.5555
+PTerm       = 19.4425
+ITerm       = 0
+DTerm       = -0
+Total error = -19.4425
+CTE           0.5555
+PTerm       = 19.4425
+ITerm       = 0
+DTerm       = 0
+Total error = -19.4425
+CTE           0.5509
+PTerm       = 19.2815
+ITerm       = 0
+DTerm       = -0
+Total error = -19.2815
+CTE           0.5509
+PTerm       = 19.2815
+ITerm       = 0
+DTerm       = 0
+Total error = -19.2815
+CTE           0.5464
+PTerm       = 19.124
+ITerm       = 0
+DTerm       = -0
+Total error = -19.124
+CTE           0.5464
+PTerm       = 19.124
+ITerm       = 0
+DTerm       = 0
+Total error = -19.124
+CTE           0.5417
+PTerm       = 18.9595
+ITerm       = 0
+DTerm       = -0
+Total error = -18.9595
+CTE           0.5417
+PTerm       = 18.9595
+ITerm       = 0
+DTerm       = 0
+Total error = -18.9595
+CTE           0.5417
+PTerm       = 18.9595
+ITerm       = 0
+DTerm       = 0
+Total error = -18.9595
+CTE           0.537
+PTerm       = 18.795
+ITerm       = 0
+DTerm       = -0
+Total error = -18.795
+CTE           0.537
+PTerm       = 18.795
+ITerm       = 0
+DTerm       = 0
+Total error = -18.795
+CTE           0.5322
+PTerm       = 18.627
+ITerm       = 0
+DTerm       = -0
+Total error = -18.627
+CTE           0.5322
+PTerm       = 18.627
+ITerm       = 0
+DTerm       = 0
+Total error = -18.627
+CTE           0.5272
+PTerm       = 18.452
+ITerm       = 0
+DTerm       = -0
+Total error = -18.452
+CTE           0.5272
+PTerm       = 18.452
+ITerm       = 0
+DTerm       = 0
+Total error = -18.452
+CTE           0.5223
+PTerm       = 18.2805
+ITerm       = 0
+DTerm       = -0
+Total error = -18.2805
+CTE           0.5223
+PTerm       = 18.2805
+ITerm       = 0
+DTerm       = 0
+Total error = -18.2805
+CTE           0.5223
+PTerm       = 18.2805
+ITerm       = 0
+DTerm       = 0
+Total error = -18.2805
+CTE           0.5172
+PTerm       = 18.102
+ITerm       = 0
+DTerm       = -0
+Total error = -18.102
+CTE           0.5172
+PTerm       = 18.102
+ITerm       = 0
+DTerm       = 0
+Total error = -18.102
+CTE           0.5122
+PTerm       = 17.927
+ITerm       = 0
+DTerm       = -0
+Total error = -17.927
+CTE           0.5122
+PTerm       = 17.927
+ITerm       = 0
+DTerm       = 0
+Total error = -17.927
+CTE           0.507
+PTerm       = 17.745
+ITerm       = 0
+DTerm       = -0
+Total error = -17.745
+CTE           0.507
+PTerm       = 17.745
+ITerm       = 0
+DTerm       = 0
+Total error = -17.745
+CTE           0.5018
+PTerm       = 17.563
+ITerm       = 0
+DTerm       = -0
+Total error = -17.563
+CTE           0.5018
+PTerm       = 17.563
+ITerm       = 0
+DTerm       = 0
+Total error = -17.563
+CTE           0.4966
+PTerm       = 17.381
+ITerm       = 0
+DTerm       = -0
+Total error = -17.381
+CTE           0.4966
+PTerm       = 17.381
+ITerm       = 0
+DTerm       = 0
+Total error = -17.381
+CTE           0.4966
+PTerm       = 17.381
+ITerm       = 0
+DTerm       = 0
+Total error = -17.381
+CTE           0.4911
+PTerm       = 17.1885
+ITerm       = 0
+DTerm       = -0
+Total error = -17.1885
+CTE           0.4911
+PTerm       = 17.1885
+ITerm       = 0
+DTerm       = 0
+Total error = -17.1885
+CTE           0.4856
+PTerm       = 16.996
+ITerm       = 0
+DTerm       = -0
+Total error = -16.996
+CTE           0.4856
+PTerm       = 16.996
+ITerm       = 0
+DTerm       = 0
+Total error = -16.996
+CTE           0.4801
+PTerm       = 16.8035
+ITerm       = 0
+DTerm       = -0
+Total error = -16.8035
+CTE           0.4801
+PTerm       = 16.8035
+ITerm       = 0
+DTerm       = 0
+Total error = -16.8035
+CTE           0.4745
+PTerm       = 16.6075
+ITerm       = 0
+DTerm       = -0
+Total error = -16.6075
+CTE           0.4745
+PTerm       = 16.6075
+ITerm       = 0
+DTerm       = 0
+Total error = -16.6075
+CTE           0.4745
+PTerm       = 16.6075
+ITerm       = 0
+DTerm       = 0
+Total error = -16.6075
+CTE           0.4687
+PTerm       = 16.4045
+ITerm       = 0
+DTerm       = -0
+Total error = -16.4045
+CTE           0.4687
+PTerm       = 16.4045
+ITerm       = 0
+DTerm       = 0
+Total error = -16.4045
+CTE           0.4627
+PTerm       = 16.1945
+ITerm       = 0
+DTerm       = -0
+Total error = -16.1945
+CTE           0.4627
+PTerm       = 16.1945
+ITerm       = 0
+DTerm       = 0
+Total error = -16.1945
+CTE           0.4568
+PTerm       = 15.988
+ITerm       = 0
+DTerm       = -0
+Total error = -15.988
+CTE           0.4568
+PTerm       = 15.988
+ITerm       = 0
+DTerm       = 0
+Total error = -15.988
+CTE           0.4507
+PTerm       = 15.7745
+ITerm       = 0
+DTerm       = -0
+Total error = -15.7745
+CTE           0.4507
+PTerm       = 15.7745
+ITerm       = 0
+DTerm       = 0
+Total error = -15.7745
+CTE           0.4445
+PTerm       = 15.5575
+ITerm       = 0
+DTerm       = -0
+Total error = -15.5575
+CTE           0.4445
+PTerm       = 15.5575
+ITerm       = 0
+DTerm       = 0
+Total error = -15.5575
+CTE           0.4445
+PTerm       = 15.5575
+ITerm       = 0
+DTerm       = 0
+Total error = -15.5575
+CTE           0.4383
+PTerm       = 15.3405
+ITerm       = 0
+DTerm       = -0
+Total error = -15.3405
+CTE           0.4383
+PTerm       = 15.3405
+ITerm       = 0
+DTerm       = 0
+Total error = -15.3405
+CTE           0.432
+PTerm       = 15.12
+ITerm       = 0
+DTerm       = -0
+Total error = -15.12
+CTE           0.432
+PTerm       = 15.12
+ITerm       = 0
+DTerm       = 0
+Total error = -15.12
+CTE           0.4255
+PTerm       = 14.8925
+ITerm       = 0
+DTerm       = -0
+Total error = -14.8925
+CTE           0.4255
+PTerm       = 14.8925
+ITerm       = 0
+DTerm       = 0
+Total error = -14.8925
+CTE           0.419
+PTerm       = 14.665
+ITerm       = 0
+DTerm       = -0
+Total error = -14.665
+CTE           0.419
+PTerm       = 14.665
+ITerm       = 0
+DTerm       = 0
+Total error = -14.665
+CTE           0.4124
+PTerm       = 14.434
+ITerm       = 0
+DTerm       = -0
+Total error = -14.434
+CTE           0.4124
+PTerm       = 14.434
+ITerm       = 0
+DTerm       = 0
+Total error = -14.434
+CTE           0.4124
+PTerm       = 14.434
+ITerm       = 0
+DTerm       = 0
+Total error = -14.434
+CTE           0.4056
+PTerm       = 14.196
+ITerm       = 0
+DTerm       = -0
+Total error = -14.196
+CTE           0.4056
+PTerm       = 14.196
+ITerm       = 0
+DTerm       = 0
+Total error = -14.196
+CTE           0.3988
+PTerm       = 13.958
+ITerm       = 0
+DTerm       = -0
+Total error = -13.958
+CTE           0.3988
+PTerm       = 13.958
+ITerm       = 0
+DTerm       = 0
+Total error = -13.958
+CTE           0.392
+PTerm       = 13.72
+ITerm       = 0
+DTerm       = -0
+Total error = -13.72
+CTE           0.392
+PTerm       = 13.72
+ITerm       = 0
+DTerm       = 0
+Total error = -13.72
+CTE           0.3851
+PTerm       = 13.4785
+ITerm       = 0
+DTerm       = -0
+Total error = -13.4785
+CTE           0.3851
+PTerm       = 13.4785
+ITerm       = 0
+DTerm       = 0
+Total error = -13.4785
+CTE           0.3851
+PTerm       = 13.4785
+ITerm       = 0
+DTerm       = 0
+Total error = -13.4785
+CTE           0.378
+PTerm       = 13.23
+ITerm       = 0
+DTerm       = -0
+Total error = -13.23
+CTE           0.378
+PTerm       = 13.23
+ITerm       = 0
+DTerm       = 0
+Total error = -13.23
+CTE           0.3709
+PTerm       = 12.9815
+ITerm       = 0
+DTerm       = -0
+Total error = -12.9815
+CTE           0.3709
+PTerm       = 12.9815
+ITerm       = 0
+DTerm       = 0
+Total error = -12.9815
+CTE           0.3637
+PTerm       = 12.7295
+ITerm       = 0
+DTerm       = -0
+Total error = -12.7295
+CTE           0.3637
+PTerm       = 12.7295
+ITerm       = 0
+DTerm       = 0
+Total error = -12.7295
+CTE           0.3564
+PTerm       = 12.474
+ITerm       = 0
+DTerm       = -0
+Total error = -12.474
+CTE           0.3564
+PTerm       = 12.474
+ITerm       = 0
+DTerm       = 0
+Total error = -12.474
+CTE           0.3564
+PTerm       = 12.474
+ITerm       = 0
+DTerm       = 0
+Total error = -12.474
+CTE           0.349
+PTerm       = 12.215
+ITerm       = 0
+DTerm       = -0
+Total error = -12.215
+CTE           0.349
+PTerm       = 12.215
+ITerm       = 0
+DTerm       = 0
+Total error = -12.215
+CTE           0.3414
+PTerm       = 11.949
+ITerm       = 0
+DTerm       = -0
+Total error = -11.949
+CTE           0.3414
+PTerm       = 11.949
+ITerm       = 0
+DTerm       = 0
+Total error = -11.949
+CTE           0.3337
+PTerm       = 11.6795
+ITerm       = 0
+DTerm       = -0
+Total error = -11.6795
+CTE           0.3337
+PTerm       = 11.6795
+ITerm       = 0
+DTerm       = 0
+Total error = -11.6795
+CTE           0.3259
+PTerm       = 11.4065
+ITerm       = 0
+DTerm       = -0
+Total error = -11.4065
+CTE           0.3259
+PTerm       = 11.4065
+ITerm       = 0
+DTerm       = 0
+Total error = -11.4065
+CTE           0.3259
+PTerm       = 11.4065
+ITerm       = 0
+DTerm       = 0
+Total error = -11.4065
+CTE           0.3181
+PTerm       = 11.1335
+ITerm       = 0
+DTerm       = -0
+Total error = -11.1335
+CTE           0.3181
+PTerm       = 11.1335
+ITerm       = 0
+DTerm       = 0
+Total error = -11.1335
+CTE           0.3102
+PTerm       = 10.857
+ITerm       = 0
+DTerm       = -0
+Total error = -10.857
+CTE           0.3102
+PTerm       = 10.857
+ITerm       = 0
+DTerm       = 0
+Total error = -10.857
+CTE           0.3021
+PTerm       = 10.5735
+ITerm       = 0
+DTerm       = -0
+Total error = -10.5735
+CTE           0.3021
+PTerm       = 10.5735
+ITerm       = 0
+DTerm       = 0
+Total error = -10.5735
+CTE           0.3021
+PTerm       = 10.5735
+ITerm       = 0
+DTerm       = 0
+Total error = -10.5735
+CTE           0.2939
+PTerm       = 10.2865
+ITerm       = 0
+DTerm       = -0
+Total error = -10.2865
+CTE           0.2939
+PTerm       = 10.2865
+ITerm       = 0
+DTerm       = 0
+Total error = -10.2865
+CTE           0.2857
+PTerm       = 9.9995
+ITerm       = 0
+DTerm       = -0
+Total error = -9.9995
+CTE           0.2857
+PTerm       = 9.9995
+ITerm       = 0
+DTerm       = 0
+Total error = -9.9995
+CTE           0.2773
+PTerm       = 9.7055
+ITerm       = 0
+DTerm       = -0
+Total error = -9.7055
+CTE           0.2773
+PTerm       = 9.7055
+ITerm       = 0
+DTerm       = 0
+Total error = -9.7055
+CTE           0.2688
+PTerm       = 9.408
+ITerm       = 0
+DTerm       = -0
+Total error = -9.408
+CTE           0.2688
+PTerm       = 9.408
+ITerm       = 0
+DTerm       = 0
+Total error = -9.408
+CTE           0.2602
+PTerm       = 9.107
+ITerm       = 0
+DTerm       = -0
+Total error = -9.107
+CTE           0.2602
+PTerm       = 9.107
+ITerm       = 0
+DTerm       = 0
+Total error = -9.107
+CTE           0.2602
+PTerm       = 9.107
+ITerm       = 0
+DTerm       = 0
+Total error = -9.107
+CTE           0.2515
+PTerm       = 8.8025
+ITerm       = 0
+DTerm       = -0
+Total error = -8.8025
+CTE           0.2515
+PTerm       = 8.8025
+ITerm       = 0
+DTerm       = 0
+Total error = -8.8025
+CTE           0.2427
+PTerm       = 8.4945
+ITerm       = 0
+DTerm       = -0
+Total error = -8.4945
+CTE           0.2427
+PTerm       = 8.4945
+ITerm       = 0
+DTerm       = 0
+Total error = -8.4945
+CTE           0.2338
+PTerm       = 8.183
+ITerm       = 0
+DTerm       = -0
+Total error = -8.183
+CTE           0.2338
+PTerm       = 8.183
+ITerm       = 0
+DTerm       = 0
+Total error = -8.183
+CTE           0.2338
+PTerm       = 8.183
+ITerm       = 0
+DTerm       = 0
+Total error = -8.183
+CTE           0.2247
+PTerm       = 7.8645
+ITerm       = 0
+DTerm       = -0
+Total error = -7.8645
+CTE           0.2247
+PTerm       = 7.8645
+ITerm       = 0
+DTerm       = 0
+Total error = -7.8645
+CTE           0.2156
+PTerm       = 7.546
+ITerm       = 0
+DTerm       = -0
+Total error = -7.546
+CTE           0.2156
+PTerm       = 7.546
+ITerm       = 0
+DTerm       = 0
+Total error = -7.546
+CTE           0.2063
+PTerm       = 7.2205
+ITerm       = 0
+DTerm       = -0
+Total error = -7.2205
+CTE           0.2063
+PTerm       = 7.2205
+ITerm       = 0
+DTerm       = 0
+Total error = -7.2205
+CTE           0.2063
+PTerm       = 7.2205
+ITerm       = 0
+DTerm       = 0
+Total error = -7.2205
+CTE           0.1969
+PTerm       = 6.8915
+ITerm       = 0
+DTerm       = -0
+Total error = -6.8915
+CTE           0.1969
+PTerm       = 6.8915
+ITerm       = 0
+DTerm       = 0
+Total error = -6.8915
+CTE           0.1873
+PTerm       = 6.5555
+ITerm       = 0
+DTerm       = -0
+Total error = -6.5555
+CTE           0.1873
+PTerm       = 6.5555
+ITerm       = 0
+DTerm       = 0
+Total error = -6.5555
+CTE           0.1777
+PTerm       = 6.2195
+ITerm       = 0
+DTerm       = -0
+Total error = -6.2195
+CTE           0.1777
+PTerm       = 6.2195
+ITerm       = 0
+DTerm       = 0
+Total error = -6.2195
+CTE           0.1777
+PTerm       = 6.2195
+ITerm       = 0
+DTerm       = 0
+Total error = -6.2195
+CTE           0.1679
+PTerm       = 5.8765
+ITerm       = 0
+DTerm       = -0
+Total error = -5.8765
+CTE           0.1679
+PTerm       = 5.8765
+ITerm       = 0
+DTerm       = 0
+Total error = -5.8765
+CTE           0.158
+PTerm       = 5.53
+ITerm       = 0
+DTerm       = -0
+Total error = -5.53
+CTE           0.158
+PTerm       = 5.53
+ITerm       = 0
+DTerm       = 0
+Total error = -5.53
+CTE           0.148
+PTerm       = 5.18
+ITerm       = 0
+DTerm       = -0
+Total error = -5.18
+CTE           0.148
+PTerm       = 5.18
+ITerm       = 0
+DTerm       = 0
+Total error = -5.18
+CTE           0.148
+PTerm       = 5.18
+ITerm       = 0
+DTerm       = 0
+Total error = -5.18
+CTE           0.1378
+PTerm       = 4.823
+ITerm       = 0
+DTerm       = -0
+Total error = -4.823
+CTE           0.1378
+PTerm       = 4.823
+ITerm       = 0
+DTerm       = 0
+Total error = -4.823
+CTE           0.1276
+PTerm       = 4.466
+ITerm       = 0
+DTerm       = -0
+Total error = -4.466
+CTE           0.1276
+PTerm       = 4.466
+ITerm       = 0
+DTerm       = 0
+Total error = -4.466
+CTE           0.1172
+PTerm       = 4.102
+ITerm       = 0
+DTerm       = -0
+Total error = -4.102
+CTE           0.1172
+PTerm       = 4.102
+ITerm       = 0
+DTerm       = 0
+Total error = -4.102
+CTE           0.1066
+PTerm       = 3.731
+ITerm       = 0
+DTerm       = -0
+Total error = -3.731
+CTE           0.1066
+PTerm       = 3.731
+ITerm       = 0
+DTerm       = 0
+Total error = -3.731
+CTE           0.1066
+PTerm       = 3.731
+ITerm       = 0
+DTerm       = 0
+Total error = -3.731
+CTE           0.096
+PTerm       = 3.36
+ITerm       = 0
+DTerm       = -0
+Total error = -3.36
+CTE           0.096
+PTerm       = 3.36
+ITerm       = 0
+DTerm       = 0
+Total error = -3.36
+CTE           0.0852
+PTerm       = 2.982
+ITerm       = 0
+DTerm       = -0
+Total error = -2.982
+CTE           0.0852
+PTerm       = 2.982
+ITerm       = 0
+DTerm       = 0
+Total error = -2.982
+CTE           0.0743
+PTerm       = 2.6005
+ITerm       = 0
+DTerm       = -0
+Total error = -2.6005
+CTE           0.0743
+PTerm       = 2.6005
+ITerm       = 0
+DTerm       = 0
+Total error = -2.6005
+CTE           0.0743
+PTerm       = 2.6005
+ITerm       = 0
+DTerm       = 0
+Total error = -2.6005
+CTE           0.0632
+PTerm       = 2.212
+ITerm       = 0
+DTerm       = -0
+Total error = -2.212
+CTE           0.0632
+PTerm       = 2.212
+ITerm       = 0
+DTerm       = 0
+Total error = -2.212
+CTE           0.052
+PTerm       = 1.82
+ITerm       = 0
+DTerm       = -0
+Total error = -1.82
+CTE           0.052
+PTerm       = 1.82
+ITerm       = 0
+DTerm       = 0
+Total error = -1.82
+CTE           0.0408
+PTerm       = 1.428
+ITerm       = 0
+DTerm       = -0
+Total error = -1.428
+CTE           0.0408
+PTerm       = 1.428
+ITerm       = 0
+DTerm       = 0
+Total error = -1.428
+CTE           0.0408
+PTerm       = 1.428
+ITerm       = 0
+DTerm       = 0
+Total error = -1.428
+CTE           0.0293
+PTerm       = 1.0255
+ITerm       = 0
+DTerm       = -0
+Total error = -1.0255
+CTE           0.0293
+PTerm       = 1.0255
+ITerm       = 0
+DTerm       = 0
+Total error = -1.0255
+CTE           0.0177
+PTerm       = 0.6195
+ITerm       = 0
+DTerm       = -0
+Total error = -0.6195
+CTE           0.0177
+PTerm       = 0.6195
+ITerm       = 0
+DTerm       = 0
+Total error = -0.6195
+CTE           0.007
+PTerm       = 0.245
+ITerm       = 0
+DTerm       = -0
+Total error = -0.245
+CTE           0.007
+PTerm       = 0.245
+ITerm       = 0
+DTerm       = 0
+Total error = -0.245
+CTE           0.007
+PTerm       = 0.245
+ITerm       = 0
+DTerm       = 0
+Total error = -0.245
+CTE           -0.0025
+PTerm       = -0.0875
+ITerm       = 0
+DTerm       = -0
+Total error = 0.0875
+CTE           -0.0025
+PTerm       = -0.0875
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0875
+CTE           -0.0103
+PTerm       = -0.3605
+ITerm       = 0
+DTerm       = -0
+Total error = 0.3605
+CTE           -0.0103
+PTerm       = -0.3605
+ITerm       = 0
+DTerm       = 0
+Total error = 0.3605
+CTE           -0.0103
+PTerm       = -0.3605
+ITerm       = 0
+DTerm       = 0
+Total error = 0.3605
+CTE           -0.0165
+PTerm       = -0.5775
+ITerm       = 0
+DTerm       = -0
+Total error = 0.5775
+CTE           -0.0165
+PTerm       = -0.5775
+ITerm       = 0
+DTerm       = 0
+Total error = 0.5775
+CTE           -0.0212
+PTerm       = -0.742
+ITerm       = 0
+DTerm       = -0
+Total error = 0.742
+CTE           -0.0212
+PTerm       = -0.742
+ITerm       = 0
+DTerm       = 0
+Total error = 0.742
+CTE           -0.0248
+PTerm       = -0.868
+ITerm       = 0
+DTerm       = -0
+Total error = 0.868
+CTE           -0.0248
+PTerm       = -0.868
+ITerm       = 0
+DTerm       = 0
+Total error = 0.868
+CTE           -0.0248
+PTerm       = -0.868
+ITerm       = 0
+DTerm       = 0
+Total error = 0.868
+CTE           -0.0274
+PTerm       = -0.959
+ITerm       = 0
+DTerm       = -0
+Total error = 0.959
+CTE           -0.0274
+PTerm       = -0.959
+ITerm       = 0
+DTerm       = 0
+Total error = 0.959
+CTE           -0.0292
+PTerm       = -1.022
+ITerm       = 0
+DTerm       = -0
+Total error = 1.022
+CTE           -0.0292
+PTerm       = -1.022
+ITerm       = 0
+DTerm       = 0
+Total error = 1.022
+CTE           -0.0304
+PTerm       = -1.064
+ITerm       = 0
+DTerm       = -0
+Total error = 1.064
+CTE           -0.0304
+PTerm       = -1.064
+ITerm       = 0
+DTerm       = 0
+Total error = 1.064
+CTE           -0.0304
+PTerm       = -1.064
+ITerm       = 0
+DTerm       = 0
+Total error = 1.064
+CTE           -0.0314
+PTerm       = -1.099
+ITerm       = 0
+DTerm       = -0
+Total error = 1.099
+CTE           -0.0314
+PTerm       = -1.099
+ITerm       = 0
+DTerm       = 0
+Total error = 1.099
+CTE           -0.0322
+PTerm       = -1.127
+ITerm       = 0
+DTerm       = -0
+Total error = 1.127
+CTE           -0.0322
+PTerm       = -1.127
+ITerm       = 0
+DTerm       = 0
+Total error = 1.127
+CTE           -0.0329
+PTerm       = -1.1515
+ITerm       = 0
+DTerm       = -0
+Total error = 1.1515
+CTE           -0.0329
+PTerm       = -1.1515
+ITerm       = 0
+DTerm       = 0
+Total error = 1.1515
+CTE           -0.0329
+PTerm       = -1.1515
+ITerm       = 0
+DTerm       = 0
+Total error = 1.1515
+CTE           -0.0334
+PTerm       = -1.169
+ITerm       = 0
+DTerm       = -0
+Total error = 1.169
+CTE           -0.0334
+PTerm       = -1.169
+ITerm       = 0
+DTerm       = 0
+Total error = 1.169
+CTE           -0.0339
+PTerm       = -1.1865
+ITerm       = 0
+DTerm       = -0
+Total error = 1.1865
+CTE           -0.0339
+PTerm       = -1.1865
+ITerm       = 0
+DTerm       = 0
+Total error = 1.1865
+CTE           -0.0342
+PTerm       = -1.197
+ITerm       = 0
+DTerm       = -0
+Total error = 1.197
+CTE           -0.0342
+PTerm       = -1.197
+ITerm       = 0
+DTerm       = 0
+Total error = 1.197
+CTE           -0.0345
+PTerm       = -1.2075
+ITerm       = 0
+DTerm       = -0
+Total error = 1.2075
+CTE           -0.0345
+PTerm       = -1.2075
+ITerm       = 0
+DTerm       = 0
+Total error = 1.2075
+CTE           -0.0347
+PTerm       = -1.2145
+ITerm       = 0
+DTerm       = -0
+Total error = 1.2145
+CTE           -0.0347
+PTerm       = -1.2145
+ITerm       = 0
+DTerm       = 0
+Total error = 1.2145
+CTE           -0.0347
+PTerm       = -1.2145
+ITerm       = 0
+DTerm       = 0
+Total error = 1.2145
+CTE           -0.0348
+PTerm       = -1.218
+ITerm       = 0
+DTerm       = -0
+Total error = 1.218
+CTE           -0.0348
+PTerm       = -1.218
+ITerm       = 0
+DTerm       = 0
+Total error = 1.218
+CTE           -0.0349
+PTerm       = -1.2215
+ITerm       = 0
+DTerm       = -0
+Total error = 1.2215
+CTE           -0.0349
+PTerm       = -1.2215
+ITerm       = 0
+DTerm       = 0
+Total error = 1.2215
+CTE           -0.0348
+PTerm       = -1.218
+ITerm       = 0
+DTerm       = 0
+Total error = 1.218
+CTE           -0.0348
+PTerm       = -1.218
+ITerm       = 0
+DTerm       = 0
+Total error = 1.218
+CTE           -0.0348
+PTerm       = -1.218
+ITerm       = 0
+DTerm       = 0
+Total error = 1.218
+CTE           -0.0346
+PTerm       = -1.211
+ITerm       = 0
+DTerm       = 0
+Total error = 1.211
+CTE           -0.0346
+PTerm       = -1.211
+ITerm       = 0
+DTerm       = 0
+Total error = 1.211
+CTE           -0.0344
+PTerm       = -1.204
+ITerm       = 0
+DTerm       = 0
+Total error = 1.204
+CTE           -0.0344
+PTerm       = -1.204
+ITerm       = 0
+DTerm       = 0
+Total error = 1.204
+CTE           -0.034
+PTerm       = -1.19
+ITerm       = 0
+DTerm       = 0
+Total error = 1.19
+CTE           -0.034
+PTerm       = -1.19
+ITerm       = 0
+DTerm       = 0
+Total error = 1.19
+CTE           -0.0336
+PTerm       = -1.176
+ITerm       = 0
+DTerm       = 0
+Total error = 1.176
+CTE           -0.0336
+PTerm       = -1.176
+ITerm       = 0
+DTerm       = 0
+Total error = 1.176
+CTE           -0.0336
+PTerm       = -1.176
+ITerm       = 0
+DTerm       = 0
+Total error = 1.176
+CTE           -0.0331
+PTerm       = -1.1585
+ITerm       = 0
+DTerm       = 0
+Total error = 1.1585
+CTE           -0.0331
+PTerm       = -1.1585
+ITerm       = 0
+DTerm       = 0
+Total error = 1.1585
+CTE           -0.0324
+PTerm       = -1.134
+ITerm       = 0
+DTerm       = 0
+Total error = 1.134
+CTE           -0.0324
+PTerm       = -1.134
+ITerm       = 0
+DTerm       = 0
+Total error = 1.134
+CTE           -0.0317
+PTerm       = -1.1095
+ITerm       = 0
+DTerm       = 0
+Total error = 1.1095
+CTE           -0.0317
+PTerm       = -1.1095
+ITerm       = 0
+DTerm       = 0
+Total error = 1.1095
+CTE           -0.0309
+PTerm       = -1.0815
+ITerm       = 0
+DTerm       = 0
+Total error = 1.0815
+CTE           -0.0309
+PTerm       = -1.0815
+ITerm       = 0
+DTerm       = 0
+Total error = 1.0815
+CTE           -0.0309
+PTerm       = -1.0815
+ITerm       = 0
+DTerm       = 0
+Total error = 1.0815
+CTE           -0.03
+PTerm       = -1.05
+ITerm       = 0
+DTerm       = 0
+Total error = 1.05
+CTE           -0.03
+PTerm       = -1.05
+ITerm       = 0
+DTerm       = 0
+Total error = 1.05
+CTE           -0.0289
+PTerm       = -1.0115
+ITerm       = 0
+DTerm       = 0
+Total error = 1.0115
+CTE           -0.0289
+PTerm       = -1.0115
+ITerm       = 0
+DTerm       = 0
+Total error = 1.0115
+CTE           -0.0278
+PTerm       = -0.973
+ITerm       = 0
+DTerm       = 0
+Total error = 0.973
+CTE           -0.0278
+PTerm       = -0.973
+ITerm       = 0
+DTerm       = 0
+Total error = 0.973
+CTE           -0.0278
+PTerm       = -0.973
+ITerm       = 0
+DTerm       = 0
+Total error = 0.973
+CTE           -0.0266
+PTerm       = -0.931
+ITerm       = 0
+DTerm       = 0
+Total error = 0.931
+CTE           -0.0266
+PTerm       = -0.931
+ITerm       = 0
+DTerm       = 0
+Total error = 0.931
+CTE           -0.0255
+PTerm       = -0.8925
+ITerm       = 0
+DTerm       = 0
+Total error = 0.8925
+CTE           -0.0255
+PTerm       = -0.8925
+ITerm       = 0
+DTerm       = 0
+Total error = 0.8925
+CTE           -0.0244
+PTerm       = -0.854
+ITerm       = 0
+DTerm       = 0
+Total error = 0.854
+CTE           -0.0244
+PTerm       = -0.854
+ITerm       = 0
+DTerm       = 0
+Total error = 0.854
+CTE           -0.0235
+PTerm       = -0.8225
+ITerm       = 0
+DTerm       = 0
+Total error = 0.8225
+CTE           -0.0235
+PTerm       = -0.8225
+ITerm       = 0
+DTerm       = 0
+Total error = 0.8225
+CTE           -0.0235
+PTerm       = -0.8225
+ITerm       = 0
+DTerm       = 0
+Total error = 0.8225
+CTE           -0.0227
+PTerm       = -0.7945
+ITerm       = 0
+DTerm       = 0
+Total error = 0.7945
+CTE           -0.0227
+PTerm       = -0.7945
+ITerm       = 0
+DTerm       = 0
+Total error = 0.7945
+CTE           -0.022
+PTerm       = -0.77
+ITerm       = 0
+DTerm       = 0
+Total error = 0.77
+CTE           -0.022
+PTerm       = -0.77
+ITerm       = 0
+DTerm       = 0
+Total error = 0.77
+CTE           -0.0214
+PTerm       = -0.749
+ITerm       = 0
+DTerm       = 0
+Total error = 0.749
+CTE           -0.0214
+PTerm       = -0.749
+ITerm       = 0
+DTerm       = 0
+Total error = 0.749
+CTE           -0.0209
+PTerm       = -0.7315
+ITerm       = 0
+DTerm       = 0
+Total error = 0.7315
+CTE           -0.0209
+PTerm       = -0.7315
+ITerm       = 0
+DTerm       = 0
+Total error = 0.7315
+CTE           -0.0209
+PTerm       = -0.7315
+ITerm       = 0
+DTerm       = 0
+Total error = 0.7315
+CTE           -0.0205
+PTerm       = -0.7175
+ITerm       = 0
+DTerm       = 0
+Total error = 0.7175
+CTE           -0.0205
+PTerm       = -0.7175
+ITerm       = 0
+DTerm       = 0
+Total error = 0.7175
+CTE           -0.0201
+PTerm       = -0.7035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.7035
+CTE           -0.0201
+PTerm       = -0.7035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.7035
+CTE           -0.0197
+PTerm       = -0.6895
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6895
+CTE           -0.0197
+PTerm       = -0.6895
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6895
+CTE           -0.0193
+PTerm       = -0.6755
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6755
+CTE           -0.0193
+PTerm       = -0.6755
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6755
+CTE           -0.0193
+PTerm       = -0.6755
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6755
+CTE           -0.019
+PTerm       = -0.665
+ITerm       = 0
+DTerm       = 0
+Total error = 0.665
+CTE           -0.019
+PTerm       = -0.665
+ITerm       = 0
+DTerm       = 0
+Total error = 0.665
+CTE           -0.0187
+PTerm       = -0.6545
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6545
+CTE           -0.0187
+PTerm       = -0.6545
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6545
+CTE           -0.0183
+PTerm       = -0.6405
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6405
+CTE           -0.0183
+PTerm       = -0.6405
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6405
+CTE           -0.018
+PTerm       = -0.63
+ITerm       = 0
+DTerm       = 0
+Total error = 0.63
+CTE           -0.018
+PTerm       = -0.63
+ITerm       = 0
+DTerm       = 0
+Total error = 0.63
+CTE           -0.0176
+PTerm       = -0.616
+ITerm       = 0
+DTerm       = 0
+Total error = 0.616
+CTE           -0.0176
+PTerm       = -0.616
+ITerm       = 0
+DTerm       = 0
+Total error = 0.616
+CTE           -0.0173
+PTerm       = -0.6055
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6055
+CTE           -0.0173
+PTerm       = -0.6055
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6055
+CTE           -0.0173
+PTerm       = -0.6055
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6055
+CTE           -0.017
+PTerm       = -0.595
+ITerm       = 0
+DTerm       = 0
+Total error = 0.595
+CTE           -0.017
+PTerm       = -0.595
+ITerm       = 0
+DTerm       = 0
+Total error = 0.595
+CTE           -0.0167
+PTerm       = -0.5845
+ITerm       = 0
+DTerm       = 0
+Total error = 0.5845
+CTE           -0.0167
+PTerm       = -0.5845
+ITerm       = 0
+DTerm       = 0
+Total error = 0.5845
+CTE           -0.0164
+PTerm       = -0.574
+ITerm       = 0
+DTerm       = 0
+Total error = 0.574
+CTE           -0.0164
+PTerm       = -0.574
+ITerm       = 0
+DTerm       = 0
+Total error = 0.574
+CTE           -0.016
+PTerm       = -0.56
+ITerm       = 0
+DTerm       = 0
+Total error = 0.56
+CTE           -0.016
+PTerm       = -0.56
+ITerm       = 0
+DTerm       = 0
+Total error = 0.56
+CTE           -0.0157
+PTerm       = -0.5495
+ITerm       = 0
+DTerm       = 0
+Total error = 0.5495
+CTE           -0.0157
+PTerm       = -0.5495
+ITerm       = 0
+DTerm       = 0
+Total error = 0.5495
+CTE           -0.0154
+PTerm       = -0.539
+ITerm       = 0
+DTerm       = 0
+Total error = 0.539
+CTE           -0.0154
+PTerm       = -0.539
+ITerm       = 0
+DTerm       = 0
+Total error = 0.539
+CTE           -0.0151
+PTerm       = -0.5285
+ITerm       = 0
+DTerm       = 0
+Total error = 0.5285
+CTE           -0.0151
+PTerm       = -0.5285
+ITerm       = 0
+DTerm       = 0
+Total error = 0.5285
+CTE           -0.0148
+PTerm       = -0.518
+ITerm       = 0
+DTerm       = 0
+Total error = 0.518
+CTE           -0.0148
+PTerm       = -0.518
+ITerm       = 0
+DTerm       = 0
+Total error = 0.518
+CTE           -0.0148
+PTerm       = -0.518
+ITerm       = 0
+DTerm       = 0
+Total error = 0.518
+CTE           -0.0144
+PTerm       = -0.504
+ITerm       = 0
+DTerm       = 0
+Total error = 0.504
+CTE           -0.0144
+PTerm       = -0.504
+ITerm       = 0
+DTerm       = 0
+Total error = 0.504
+CTE           -0.0141
+PTerm       = -0.4935
+ITerm       = 0
+DTerm       = 0
+Total error = 0.4935
+CTE           -0.0141
+PTerm       = -0.4935
+ITerm       = 0
+DTerm       = 0
+Total error = 0.4935
+CTE           -0.0138
+PTerm       = -0.483
+ITerm       = 0
+DTerm       = 0
+Total error = 0.483
+CTE           -0.0138
+PTerm       = -0.483
+ITerm       = 0
+DTerm       = 0
+Total error = 0.483
+CTE           -0.0134
+PTerm       = -0.469
+ITerm       = 0
+DTerm       = 0
+Total error = 0.469
+CTE           -0.0134
+PTerm       = -0.469
+ITerm       = 0
+DTerm       = 0
+Total error = 0.469
+CTE           -0.0131
+PTerm       = -0.4585
+ITerm       = 0
+DTerm       = 0
+Total error = 0.4585
+CTE           -0.0131
+PTerm       = -0.4585
+ITerm       = 0
+DTerm       = 0
+Total error = 0.4585
+CTE           -0.0129
+PTerm       = -0.4515
+ITerm       = 0
+DTerm       = 0
+Total error = 0.4515
+CTE           -0.0129
+PTerm       = -0.4515
+ITerm       = 0
+DTerm       = 0
+Total error = 0.4515
+CTE           -0.013
+PTerm       = -0.455
+ITerm       = 0
+DTerm       = -0
+Total error = 0.455
+CTE           -0.013
+PTerm       = -0.455
+ITerm       = 0
+DTerm       = 0
+Total error = 0.455
+CTE           -0.0135
+PTerm       = -0.4725
+ITerm       = 0
+DTerm       = -0
+Total error = 0.4725
+CTE           -0.0135
+PTerm       = -0.4725
+ITerm       = 0
+DTerm       = 0
+Total error = 0.4725
+CTE           -0.0135
+PTerm       = -0.4725
+ITerm       = 0
+DTerm       = 0
+Total error = 0.4725
+CTE           -0.0146
+PTerm       = -0.511
+ITerm       = 0
+DTerm       = -0
+Total error = 0.511
+CTE           -0.0146
+PTerm       = -0.511
+ITerm       = 0
+DTerm       = 0
+Total error = 0.511
+CTE           -0.0164
+PTerm       = -0.574
+ITerm       = 0
+DTerm       = -0
+Total error = 0.574
+CTE           -0.0164
+PTerm       = -0.574
+ITerm       = 0
+DTerm       = 0
+Total error = 0.574
+CTE           -0.0188
+PTerm       = -0.658
+ITerm       = 0
+DTerm       = -0
+Total error = 0.658
+CTE           -0.0188
+PTerm       = -0.658
+ITerm       = 0
+DTerm       = 0
+Total error = 0.658
+CTE           -0.022
+PTerm       = -0.77
+ITerm       = 0
+DTerm       = -0
+Total error = 0.77
+CTE           -0.022
+PTerm       = -0.77
+ITerm       = 0
+DTerm       = 0
+Total error = 0.77
+CTE           -0.026
+PTerm       = -0.91
+ITerm       = 0
+DTerm       = -0
+Total error = 0.91
+CTE           -0.026
+PTerm       = -0.91
+ITerm       = 0
+DTerm       = 0
+Total error = 0.91
+CTE           -0.031
+PTerm       = -1.085
+ITerm       = 0
+DTerm       = -0
+Total error = 1.085
+CTE           -0.031
+PTerm       = -1.085
+ITerm       = 0
+DTerm       = 0
+Total error = 1.085
+CTE           -0.037
+PTerm       = -1.295
+ITerm       = 0
+DTerm       = -0
+Total error = 1.295
+CTE           -0.037
+PTerm       = -1.295
+ITerm       = 0
+DTerm       = 0
+Total error = 1.295
+CTE           0.044
+PTerm       = 1.54
+ITerm       = 0
+DTerm       = 0
+Total error = -1.54
+CTE           0.044
+PTerm       = 1.54
+ITerm       = 0
+DTerm       = 0
+Total error = -1.54
+CTE           0.0511
+PTerm       = 1.7885
+ITerm       = 0
+DTerm       = 0
+Total error = -1.7885
+CTE           0.0511
+PTerm       = 1.7885
+ITerm       = 0
+DTerm       = 0
+Total error = -1.7885
+CTE           0.0579
+PTerm       = 2.0265
+ITerm       = 0
+DTerm       = 0
+Total error = -2.0265
+CTE           0.0579
+PTerm       = 2.0265
+ITerm       = 0
+DTerm       = 0
+Total error = -2.0265
+CTE           0.0579
+PTerm       = 2.0265
+ITerm       = 0
+DTerm       = 0
+Total error = -2.0265
+CTE           0.0643
+PTerm       = 2.2505
+ITerm       = 0
+DTerm       = 0
+Total error = -2.2505
+CTE           0.0643
+PTerm       = 2.2505
+ITerm       = 0
+DTerm       = 0
+Total error = -2.2505
+CTE           0.0703
+PTerm       = 2.4605
+ITerm       = 0
+DTerm       = 0
+Total error = -2.4605
+CTE           0.0703
+PTerm       = 2.4605
+ITerm       = 0
+DTerm       = 0
+Total error = -2.4605
+CTE           -0.0762
+PTerm       = -2.667
+ITerm       = 0
+DTerm       = -0
+Total error = 2.667
+CTE           -0.0762
+PTerm       = -2.667
+ITerm       = 0
+DTerm       = 0
+Total error = 2.667
+CTE           -0.0828
+PTerm       = -2.898
+ITerm       = 0
+DTerm       = -0
+Total error = 2.898
+CTE           -0.0828
+PTerm       = -2.898
+ITerm       = 0
+DTerm       = 0
+Total error = 2.898
+CTE           -0.0898
+PTerm       = -3.143
+ITerm       = 0
+DTerm       = -0
+Total error = 3.143
+CTE           -0.0898
+PTerm       = -3.143
+ITerm       = 0
+DTerm       = 0
+Total error = 3.143
+CTE           -0.0974
+PTerm       = -3.409
+ITerm       = 0
+DTerm       = -0
+Total error = 3.409
+CTE           -0.0974
+PTerm       = -3.409
+ITerm       = 0
+DTerm       = 0
+Total error = 3.409
+CTE           -0.1052
+PTerm       = -3.682
+ITerm       = 0
+DTerm       = -0
+Total error = 3.682
+CTE           -0.1052
+PTerm       = -3.682
+ITerm       = 0
+DTerm       = 0
+Total error = 3.682
+CTE           -0.1015
+PTerm       = -3.5525
+ITerm       = 0
+DTerm       = 0
+Total error = 3.5525
+CTE           -0.1015
+PTerm       = -3.5525
+ITerm       = 0
+DTerm       = 0
+Total error = 3.5525
+CTE           -0.1015
+PTerm       = -3.5525
+ITerm       = 0
+DTerm       = 0
+Total error = 3.5525
+CTE           0.098
+PTerm       = 3.43
+ITerm       = 0
+DTerm       = 0
+Total error = -3.43
+CTE           0.098
+PTerm       = 3.43
+ITerm       = 0
+DTerm       = 0
+Total error = -3.43
+CTE           0.0946
+PTerm       = 3.311
+ITerm       = 0
+DTerm       = -0
+Total error = -3.311
+CTE           0.0946
+PTerm       = 3.311
+ITerm       = 0
+DTerm       = 0
+Total error = -3.311
+CTE           0.0911
+PTerm       = 3.1885
+ITerm       = 0
+DTerm       = -0
+Total error = -3.1885
+CTE           0.0911
+PTerm       = 3.1885
+ITerm       = 0
+DTerm       = 0
+Total error = -3.1885
+CTE           0.0873
+PTerm       = 3.0555
+ITerm       = 0
+DTerm       = -0
+Total error = -3.0555
+CTE           0.0873
+PTerm       = 3.0555
+ITerm       = 0
+DTerm       = 0
+Total error = -3.0555
+CTE           0.0832
+PTerm       = 2.912
+ITerm       = 0
+DTerm       = -0
+Total error = -2.912
+CTE           0.0832
+PTerm       = 2.912
+ITerm       = 0
+DTerm       = 0
+Total error = -2.912
+CTE           0.0788
+PTerm       = 2.758
+ITerm       = 0
+DTerm       = -0
+Total error = -2.758
+CTE           0.0788
+PTerm       = 2.758
+ITerm       = 0
+DTerm       = 0
+Total error = -2.758
+CTE           0.0746
+PTerm       = 2.611
+ITerm       = 0
+DTerm       = -0
+Total error = -2.611
+CTE           0.0746
+PTerm       = 2.611
+ITerm       = 0
+DTerm       = 0
+Total error = -2.611
+CTE           -0.0707
+PTerm       = -2.4745
+ITerm       = 0
+DTerm       = -0
+Total error = 2.4745
+CTE           -0.0707
+PTerm       = -2.4745
+ITerm       = 0
+DTerm       = 0
+Total error = 2.4745
+CTE           -0.0674
+PTerm       = -2.359
+ITerm       = 0
+DTerm       = 0
+Total error = 2.359
+CTE           -0.0674
+PTerm       = -2.359
+ITerm       = 0
+DTerm       = 0
+Total error = 2.359
+CTE           -0.0674
+PTerm       = -2.359
+ITerm       = 0
+DTerm       = 0
+Total error = 2.359
+CTE           -0.0644
+PTerm       = -2.254
+ITerm       = 0
+DTerm       = 0
+Total error = 2.254
+CTE           -0.0644
+PTerm       = -2.254
+ITerm       = 0
+DTerm       = 0
+Total error = 2.254
+CTE           -0.0616
+PTerm       = -2.156
+ITerm       = 0
+DTerm       = 0
+Total error = 2.156
+CTE           -0.0616
+PTerm       = -2.156
+ITerm       = 0
+DTerm       = 0
+Total error = 2.156
+CTE           -0.0592
+PTerm       = -2.072
+ITerm       = 0
+DTerm       = 0
+Total error = 2.072
+CTE           -0.0592
+PTerm       = -2.072
+ITerm       = 0
+DTerm       = 0
+Total error = 2.072
+CTE           0.0571
+PTerm       = 1.9985
+ITerm       = 0
+DTerm       = 0
+Total error = -1.9985
+CTE           0.0571
+PTerm       = 1.9985
+ITerm       = 0
+DTerm       = 0
+Total error = -1.9985
+CTE           0.055
+PTerm       = 1.925
+ITerm       = 0
+DTerm       = -0
+Total error = -1.925
+CTE           0.055
+PTerm       = 1.925
+ITerm       = 0
+DTerm       = 0
+Total error = -1.925
+CTE           0.0527
+PTerm       = 1.8445
+ITerm       = 0
+DTerm       = -0
+Total error = -1.8445
+CTE           0.0527
+PTerm       = 1.8445
+ITerm       = 0
+DTerm       = 0
+Total error = -1.8445
+CTE           -0.0503
+PTerm       = -1.7605
+ITerm       = 0
+DTerm       = -0
+Total error = 1.7605
+CTE           -0.0503
+PTerm       = -1.7605
+ITerm       = 0
+DTerm       = 0
+Total error = 1.7605
+CTE           -0.0482
+PTerm       = -1.687
+ITerm       = 0
+DTerm       = 0
+Total error = 1.687
+CTE           -0.0482
+PTerm       = -1.687
+ITerm       = 0
+DTerm       = 0
+Total error = 1.687
+CTE           0.0466
+PTerm       = 1.631
+ITerm       = 0
+DTerm       = 0
+Total error = -1.631
+CTE           0.0466
+PTerm       = 1.631
+ITerm       = 0
+DTerm       = 0
+Total error = -1.631
+CTE           0.0466
+PTerm       = 1.631
+ITerm       = 0
+DTerm       = 0
+Total error = -1.631
+CTE           0.0448
+PTerm       = 1.568
+ITerm       = 0
+DTerm       = -0
+Total error = -1.568
+CTE           0.0448
+PTerm       = 1.568
+ITerm       = 0
+DTerm       = 0
+Total error = -1.568
+CTE           -0.0428
+PTerm       = -1.498
+ITerm       = 0
+DTerm       = -0
+Total error = 1.498
+CTE           -0.0428
+PTerm       = -1.498
+ITerm       = 0
+DTerm       = 0
+Total error = 1.498
+CTE           -0.0413
+PTerm       = -1.4455
+ITerm       = 0
+DTerm       = 0
+Total error = 1.4455
+CTE           -0.0413
+PTerm       = -1.4455
+ITerm       = 0
+DTerm       = 0
+Total error = 1.4455
+CTE           0.04
+PTerm       = 1.4
+ITerm       = 0
+DTerm       = 0
+Total error = -1.4
+CTE           0.04
+PTerm       = 1.4
+ITerm       = 0
+DTerm       = 0
+Total error = -1.4
+CTE           0.0386
+PTerm       = 1.351
+ITerm       = 0
+DTerm       = -0
+Total error = -1.351
+CTE           0.0386
+PTerm       = 1.351
+ITerm       = 0
+DTerm       = 0
+Total error = -1.351
+CTE           -0.0371
+PTerm       = -1.2985
+ITerm       = 0
+DTerm       = -0
+Total error = 1.2985
+CTE           -0.0371
+PTerm       = -1.2985
+ITerm       = 0
+DTerm       = 0
+Total error = 1.2985
+CTE           -0.036
+PTerm       = -1.26
+ITerm       = 0
+DTerm       = 0
+Total error = 1.26
+CTE           -0.036
+PTerm       = -1.26
+ITerm       = 0
+DTerm       = 0
+Total error = 1.26
+CTE           0.0351
+PTerm       = 1.2285
+ITerm       = 0
+DTerm       = 0
+Total error = -1.2285
+CTE           0.0351
+PTerm       = 1.2285
+ITerm       = 0
+DTerm       = 0
+Total error = -1.2285
+CTE           -0.034
+PTerm       = -1.19
+ITerm       = 0
+DTerm       = -0
+Total error = 1.19
+CTE           -0.034
+PTerm       = -1.19
+ITerm       = 0
+DTerm       = 0
+Total error = 1.19
+CTE           0.0333
+PTerm       = 1.1655
+ITerm       = 0
+DTerm       = 0
+Total error = -1.1655
+CTE           0.0333
+PTerm       = 1.1655
+ITerm       = 0
+DTerm       = 0
+Total error = -1.1655
+CTE           0.0333
+PTerm       = 1.1655
+ITerm       = 0
+DTerm       = 0
+Total error = -1.1655
+CTE           0.0323
+PTerm       = 1.1305
+ITerm       = 0
+DTerm       = -0
+Total error = -1.1305
+CTE           0.0323
+PTerm       = 1.1305
+ITerm       = 0
+DTerm       = 0
+Total error = -1.1305
+CTE           -0.0313
+PTerm       = -1.0955
+ITerm       = 0
+DTerm       = -0
+Total error = 1.0955
+CTE           -0.0313
+PTerm       = -1.0955
+ITerm       = 0
+DTerm       = 0
+Total error = 1.0955
+CTE           -0.0306
+PTerm       = -1.071
+ITerm       = 0
+DTerm       = 0
+Total error = 1.071
+CTE           -0.0306
+PTerm       = -1.071
+ITerm       = 0
+DTerm       = 0
+Total error = 1.071
+CTE           0.0301
+PTerm       = 1.0535
+ITerm       = 0
+DTerm       = 0
+Total error = -1.0535
+CTE           0.0301
+PTerm       = 1.0535
+ITerm       = 0
+DTerm       = 0
+Total error = -1.0535
+CTE           0.0293
+PTerm       = 1.0255
+ITerm       = 0
+DTerm       = -0
+Total error = -1.0255
+CTE           0.0293
+PTerm       = 1.0255
+ITerm       = 0
+DTerm       = 0
+Total error = -1.0255
+CTE           -0.0285
+PTerm       = -0.9975
+ITerm       = 0
+DTerm       = -0
+Total error = 0.9975
+CTE           -0.0285
+PTerm       = -0.9975
+ITerm       = 0
+DTerm       = 0
+Total error = 0.9975
+CTE           -0.028
+PTerm       = -0.98
+ITerm       = 0
+DTerm       = 0
+Total error = 0.98
+CTE           -0.028
+PTerm       = -0.98
+ITerm       = 0
+DTerm       = 0
+Total error = 0.98
+CTE           0.0277
+PTerm       = 0.9695
+ITerm       = 0
+DTerm       = 0
+Total error = -0.9695
+CTE           0.0277
+PTerm       = 0.9695
+ITerm       = 0
+DTerm       = 0
+Total error = -0.9695
+CTE           0.0271
+PTerm       = 0.9485
+ITerm       = 0
+DTerm       = -0
+Total error = -0.9485
+CTE           0.0271
+PTerm       = 0.9485
+ITerm       = 0
+DTerm       = 0
+Total error = -0.9485
+CTE           -0.0264
+PTerm       = -0.924
+ITerm       = 0
+DTerm       = -0
+Total error = 0.924
+CTE           -0.0264
+PTerm       = -0.924
+ITerm       = 0
+DTerm       = 0
+Total error = 0.924
+CTE           -0.0264
+PTerm       = -0.924
+ITerm       = 0
+DTerm       = 0
+Total error = 0.924
+CTE           0.026
+PTerm       = 0.91
+ITerm       = 0
+DTerm       = 0
+Total error = -0.91
+CTE           0.026
+PTerm       = 0.91
+ITerm       = 0
+DTerm       = 0
+Total error = -0.91
+CTE           -0.0255
+PTerm       = -0.8925
+ITerm       = 0
+DTerm       = -0
+Total error = 0.8925
+CTE           -0.0255
+PTerm       = -0.8925
+ITerm       = 0
+DTerm       = 0
+Total error = 0.8925
+CTE           0.0251
+PTerm       = 0.8785
+ITerm       = 0
+DTerm       = 0
+Total error = -0.8785
+CTE           0.0251
+PTerm       = 0.8785
+ITerm       = 0
+DTerm       = 0
+Total error = -0.8785
+CTE           -0.0246
+PTerm       = -0.861
+ITerm       = 0
+DTerm       = -0
+Total error = 0.861
+CTE           -0.0246
+PTerm       = -0.861
+ITerm       = 0
+DTerm       = 0
+Total error = 0.861
+CTE           0.0244
+PTerm       = 0.854
+ITerm       = 0
+DTerm       = 0
+Total error = -0.854
+CTE           0.0244
+PTerm       = 0.854
+ITerm       = 0
+DTerm       = 0
+Total error = -0.854
+CTE           -0.0239
+PTerm       = -0.8365
+ITerm       = 0
+DTerm       = -0
+Total error = 0.8365
+CTE           -0.0239
+PTerm       = -0.8365
+ITerm       = 0
+DTerm       = 0
+Total error = 0.8365
+CTE           0.0237
+PTerm       = 0.8295
+ITerm       = 0
+DTerm       = 0
+Total error = -0.8295
+CTE           0.0237
+PTerm       = 0.8295
+ITerm       = 0
+DTerm       = 0
+Total error = -0.8295
+CTE           -0.0233
+PTerm       = -0.8155
+ITerm       = 0
+DTerm       = -0
+Total error = 0.8155
+CTE           -0.0233
+PTerm       = -0.8155
+ITerm       = 0
+DTerm       = 0
+Total error = 0.8155
+CTE           0.0231
+PTerm       = 0.8085
+ITerm       = 0
+DTerm       = 0
+Total error = -0.8085
+CTE           0.0231
+PTerm       = 0.8085
+ITerm       = 0
+DTerm       = 0
+Total error = -0.8085
+CTE           0.0231
+PTerm       = 0.8085
+ITerm       = 0
+DTerm       = 0
+Total error = -0.8085
+CTE           -0.0227
+PTerm       = -0.7945
+ITerm       = 0
+DTerm       = -0
+Total error = 0.7945
+CTE           -0.0227
+PTerm       = -0.7945
+ITerm       = 0
+DTerm       = 0
+Total error = 0.7945
+CTE           0.0225
+PTerm       = 0.7875
+ITerm       = 0
+DTerm       = 0
+Total error = -0.7875
+CTE           0.0225
+PTerm       = 0.7875
+ITerm       = 0
+DTerm       = 0
+Total error = -0.7875
+CTE           -0.022
+PTerm       = -0.77
+ITerm       = 0
+DTerm       = -0
+Total error = 0.77
+CTE           -0.022
+PTerm       = -0.77
+ITerm       = 0
+DTerm       = 0
+Total error = 0.77
+CTE           -0.0218
+PTerm       = -0.763
+ITerm       = 0
+DTerm       = 0
+Total error = 0.763
+CTE           -0.0218
+PTerm       = -0.763
+ITerm       = 0
+DTerm       = 0
+Total error = 0.763
+CTE           0.0216
+PTerm       = 0.756
+ITerm       = 0
+DTerm       = 0
+Total error = -0.756
+CTE           0.0216
+PTerm       = 0.756
+ITerm       = 0
+DTerm       = 0
+Total error = -0.756
+CTE           0.0213
+PTerm       = 0.7455
+ITerm       = 0
+DTerm       = -0
+Total error = -0.7455
+CTE           0.0213
+PTerm       = 0.7455
+ITerm       = 0
+DTerm       = 0
+Total error = -0.7455
+CTE           -0.0208
+PTerm       = -0.728
+ITerm       = 0
+DTerm       = -0
+Total error = 0.728
+CTE           -0.0208
+PTerm       = -0.728
+ITerm       = 0
+DTerm       = 0
+Total error = 0.728
+CTE           -0.0206
+PTerm       = -0.721
+ITerm       = 0
+DTerm       = 0
+Total error = 0.721
+CTE           -0.0206
+PTerm       = -0.721
+ITerm       = 0
+DTerm       = 0
+Total error = 0.721
+CTE           0.0204
+PTerm       = 0.714
+ITerm       = 0
+DTerm       = 0
+Total error = -0.714
+CTE           0.0204
+PTerm       = 0.714
+ITerm       = 0
+DTerm       = 0
+Total error = -0.714
+CTE           0.02
+PTerm       = 0.7
+ITerm       = 0
+DTerm       = -0
+Total error = -0.7
+CTE           0.02
+PTerm       = 0.7
+ITerm       = 0
+DTerm       = 0
+Total error = -0.7
+CTE           -0.0197
+PTerm       = -0.6895
+ITerm       = 0
+DTerm       = -0
+Total error = 0.6895
+CTE           -0.0197
+PTerm       = -0.6895
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6895
+CTE           0.0194
+PTerm       = 0.679
+ITerm       = 0
+DTerm       = 0
+Total error = -0.679
+CTE           0.0194
+PTerm       = 0.679
+ITerm       = 0
+DTerm       = 0
+Total error = -0.679
+CTE           0.0194
+PTerm       = 0.679
+ITerm       = 0
+DTerm       = 0
+Total error = -0.679
+CTE           -0.019
+PTerm       = -0.665
+ITerm       = 0
+DTerm       = -0
+Total error = 0.665
+CTE           -0.019
+PTerm       = -0.665
+ITerm       = 0
+DTerm       = 0
+Total error = 0.665
+CTE           -0.0188
+PTerm       = -0.658
+ITerm       = 0
+DTerm       = 0
+Total error = 0.658
+CTE           -0.0188
+PTerm       = -0.658
+ITerm       = 0
+DTerm       = 0
+Total error = 0.658
+CTE           0.0186
+PTerm       = 0.651
+ITerm       = 0
+DTerm       = 0
+Total error = -0.651
+CTE           0.0186
+PTerm       = 0.651
+ITerm       = 0
+DTerm       = 0
+Total error = -0.651
+CTE           0.0182
+PTerm       = 0.637
+ITerm       = 0
+DTerm       = -0
+Total error = -0.637
+CTE           0.0182
+PTerm       = 0.637
+ITerm       = 0
+DTerm       = 0
+Total error = -0.637
+CTE           -0.0178
+PTerm       = -0.623
+ITerm       = 0
+DTerm       = -0
+Total error = 0.623
+CTE           -0.0178
+PTerm       = -0.623
+ITerm       = 0
+DTerm       = 0
+Total error = 0.623
+CTE           -0.0175
+PTerm       = -0.6125
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6125
+CTE           -0.0175
+PTerm       = -0.6125
+ITerm       = 0
+DTerm       = 0
+Total error = 0.6125
+CTE           0.0173
+PTerm       = 0.6055
+ITerm       = 0
+DTerm       = 0
+Total error = -0.6055
+CTE           0.0173
+PTerm       = 0.6055
+ITerm       = 0
+DTerm       = 0
+Total error = -0.6055
+CTE           0.0169
+PTerm       = 0.5915
+ITerm       = 0
+DTerm       = -0
+Total error = -0.5915
+CTE           0.0169
+PTerm       = 0.5915
+ITerm       = 0
+DTerm       = 0
+Total error = -0.5915
+CTE           -0.0166
+PTerm       = -0.581
+ITerm       = 0
+DTerm       = -0
+Total error = 0.581
+CTE           -0.0166
+PTerm       = -0.581
+ITerm       = 0
+DTerm       = 0
+Total error = 0.581
+CTE           -0.0163
+PTerm       = -0.5705
+ITerm       = 0
+DTerm       = 0
+Total error = 0.5705
+CTE           -0.0163
+PTerm       = -0.5705
+ITerm       = 0
+DTerm       = 0
+Total error = 0.5705
+CTE           0.0161
+PTerm       = 0.5635
+ITerm       = 0
+DTerm       = 0
+Total error = -0.5635
+CTE           0.0161
+PTerm       = 0.5635
+ITerm       = 0
+DTerm       = 0
+Total error = -0.5635
+CTE           0.0157
+PTerm       = 0.5495
+ITerm       = 0
+DTerm       = -0
+Total error = -0.5495
+CTE           0.0157
+PTerm       = 0.5495
+ITerm       = 0
+DTerm       = 0
+Total error = -0.5495
+CTE           -0.0152
+PTerm       = -0.532
+ITerm       = 0
+DTerm       = -0
+Total error = 0.532
+CTE           -0.0152
+PTerm       = -0.532
+ITerm       = 0
+DTerm       = 0
+Total error = 0.532
+CTE           -0.0152
+PTerm       = -0.532
+ITerm       = 0
+DTerm       = 0
+Total error = 0.532
+CTE           -0.015
+PTerm       = -0.525
+ITerm       = 0
+DTerm       = 0
+Total error = 0.525
+CTE           -0.015
+PTerm       = -0.525
+ITerm       = 0
+DTerm       = 0
+Total error = 0.525
+CTE           0.0147
+PTerm       = 0.5145
+ITerm       = 0
+DTerm       = 0
+Total error = -0.5145
+CTE           0.0147
+PTerm       = 0.5145
+ITerm       = 0
+DTerm       = 0
+Total error = -0.5145
+CTE           0.0143
+PTerm       = 0.5005
+ITerm       = 0
+DTerm       = -0
+Total error = -0.5005
+CTE           0.0143
+PTerm       = 0.5005
+ITerm       = 0
+DTerm       = 0
+Total error = -0.5005
+CTE           -0.0139
+PTerm       = -0.4865
+ITerm       = 0
+DTerm       = -0
+Total error = 0.4865
+CTE           -0.0139
+PTerm       = -0.4865
+ITerm       = 0
+DTerm       = 0
+Total error = 0.4865
+CTE           -0.0136
+PTerm       = -0.476
+ITerm       = 0
+DTerm       = 0
+Total error = 0.476
+CTE           -0.0136
+PTerm       = -0.476
+ITerm       = 0
+DTerm       = 0
+Total error = 0.476
+CTE           0.0133
+PTerm       = 0.4655
+ITerm       = 0
+DTerm       = 0
+Total error = -0.4655
+CTE           0.0133
+PTerm       = 0.4655
+ITerm       = 0
+DTerm       = 0
+Total error = -0.4655
+CTE           0.013
+PTerm       = 0.455
+ITerm       = 0
+DTerm       = -0
+Total error = -0.455
+CTE           0.013
+PTerm       = 0.455
+ITerm       = 0
+DTerm       = 0
+Total error = -0.455
+CTE           -0.0125
+PTerm       = -0.4375
+ITerm       = 0
+DTerm       = -0
+Total error = 0.4375
+CTE           -0.0125
+PTerm       = -0.4375
+ITerm       = 0
+DTerm       = 0
+Total error = 0.4375
+CTE           -0.0122
+PTerm       = -0.427
+ITerm       = 0
+DTerm       = 0
+Total error = 0.427
+CTE           -0.0122
+PTerm       = -0.427
+ITerm       = 0
+DTerm       = 0
+Total error = 0.427
+CTE           0.0119
+PTerm       = 0.4165
+ITerm       = 0
+DTerm       = 0
+Total error = -0.4165
+CTE           0.0119
+PTerm       = 0.4165
+ITerm       = 0
+DTerm       = 0
+Total error = -0.4165
+CTE           -0.0115
+PTerm       = -0.4025
+ITerm       = 0
+DTerm       = -0
+Total error = 0.4025
+CTE           -0.0115
+PTerm       = -0.4025
+ITerm       = 0
+DTerm       = 0
+Total error = 0.4025
+CTE           0.0112
+PTerm       = 0.392
+ITerm       = 0
+DTerm       = 0
+Total error = -0.392
+CTE           0.0112
+PTerm       = 0.392
+ITerm       = 0
+DTerm       = 0
+Total error = -0.392
+CTE           0.0112
+PTerm       = 0.392
+ITerm       = 0
+DTerm       = 0
+Total error = -0.392
+CTE           0.0108
+PTerm       = 0.378
+ITerm       = 0
+DTerm       = -0
+Total error = -0.378
+CTE           0.0108
+PTerm       = 0.378
+ITerm       = 0
+DTerm       = 0
+Total error = -0.378
+CTE           -0.0103
+PTerm       = -0.3605
+ITerm       = 0
+DTerm       = -0
+Total error = 0.3605
+CTE           -0.0103
+PTerm       = -0.3605
+ITerm       = 0
+DTerm       = 0
+Total error = 0.3605
+CTE           -0.01
+PTerm       = -0.35
+ITerm       = 0
+DTerm       = 0
+Total error = 0.35
+CTE           -0.01
+PTerm       = -0.35
+ITerm       = 0
+DTerm       = 0
+Total error = 0.35
+CTE           0.0096
+PTerm       = 0.336
+ITerm       = 0
+DTerm       = 0
+Total error = -0.336
+CTE           0.0096
+PTerm       = 0.336
+ITerm       = 0
+DTerm       = 0
+Total error = -0.336
+CTE           -0.0092
+PTerm       = -0.322
+ITerm       = 0
+DTerm       = -0
+Total error = 0.322
+CTE           -0.0092
+PTerm       = -0.322
+ITerm       = 0
+DTerm       = 0
+Total error = 0.322
+CTE           0.0089
+PTerm       = 0.3115
+ITerm       = 0
+DTerm       = 0
+Total error = -0.3115
+CTE           0.0089
+PTerm       = 0.3115
+ITerm       = 0
+DTerm       = 0
+Total error = -0.3115
+CTE           -0.0085
+PTerm       = -0.2975
+ITerm       = 0
+DTerm       = -0
+Total error = 0.2975
+CTE           -0.0085
+PTerm       = -0.2975
+ITerm       = 0
+DTerm       = 0
+Total error = 0.2975
+CTE           0.0082
+PTerm       = 0.287
+ITerm       = 0
+DTerm       = 0
+Total error = -0.287
+CTE           0.0082
+PTerm       = 0.287
+ITerm       = 0
+DTerm       = 0
+Total error = -0.287
+CTE           -0.0078
+PTerm       = -0.273
+ITerm       = 0
+DTerm       = -0
+Total error = 0.273
+CTE           -0.0078
+PTerm       = -0.273
+ITerm       = 0
+DTerm       = 0
+Total error = 0.273
+CTE           0.0074
+PTerm       = 0.259
+ITerm       = 0
+DTerm       = 0
+Total error = -0.259
+CTE           0.0074
+PTerm       = 0.259
+ITerm       = 0
+DTerm       = 0
+Total error = -0.259
+CTE           -0.007
+PTerm       = -0.245
+ITerm       = 0
+DTerm       = -0
+Total error = 0.245
+CTE           -0.007
+PTerm       = -0.245
+ITerm       = 0
+DTerm       = 0
+Total error = 0.245
+CTE           -0.0067
+PTerm       = -0.2345
+ITerm       = 0
+DTerm       = 0
+Total error = 0.2345
+CTE           -0.0067
+PTerm       = -0.2345
+ITerm       = 0
+DTerm       = 0
+Total error = 0.2345
+CTE           0.0064
+PTerm       = 0.224
+ITerm       = 0
+DTerm       = 0
+Total error = -0.224
+CTE           0.0064
+PTerm       = 0.224
+ITerm       = 0
+DTerm       = 0
+Total error = -0.224
+CTE           0.006
+PTerm       = 0.21
+ITerm       = 0
+DTerm       = -0
+Total error = -0.21
+CTE           0.006
+PTerm       = 0.21
+ITerm       = 0
+DTerm       = 0
+Total error = -0.21
+CTE           -0.0056
+PTerm       = -0.196
+ITerm       = 0
+DTerm       = -0
+Total error = 0.196
+CTE           -0.0052
+PTerm       = -0.182
+ITerm       = 0
+DTerm       = 0
+Total error = 0.182
+CTE           -0.0049
+PTerm       = -0.1715
+ITerm       = 0
+DTerm       = 0
+Total error = 0.1715
+CTE           -0.0049
+PTerm       = -0.1715
+ITerm       = 0
+DTerm       = 0
+Total error = 0.1715
+CTE           -0.0045
+PTerm       = -0.1575
+ITerm       = 0
+DTerm       = 0
+Total error = 0.1575
+CTE           0.0043
+PTerm       = 0.1505
+ITerm       = 0
+DTerm       = 0
+Total error = -0.1505
+CTE           0.0043
+PTerm       = 0.1505
+ITerm       = 0
+DTerm       = 0
+Total error = -0.1505
+CTE           -0.0039
+PTerm       = -0.1365
+ITerm       = 0
+DTerm       = -0
+Total error = 0.1365
+CTE           -0.0036
+PTerm       = -0.126
+ITerm       = 0
+DTerm       = 0
+Total error = 0.126
+CTE           -0.0036
+PTerm       = -0.126
+ITerm       = 0
+DTerm       = 0
+Total error = 0.126
+CTE           -0.0032
+PTerm       = -0.112
+ITerm       = 0
+DTerm       = 0
+Total error = 0.112
+CTE           -0.0032
+PTerm       = -0.112
+ITerm       = 0
+DTerm       = 0
+Total error = 0.112
+CTE           -0.0029
+PTerm       = -0.1015
+ITerm       = 0
+DTerm       = 0
+Total error = 0.1015
+CTE           -0.0029
+PTerm       = -0.1015
+ITerm       = 0
+DTerm       = 0
+Total error = 0.1015
+CTE           0.0027
+PTerm       = 0.0945
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0945
+CTE           0.0027
+PTerm       = 0.0945
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0945
+CTE           0.0027
+PTerm       = 0.0945
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0945
+CTE           -0.0024
+PTerm       = -0.084
+ITerm       = 0
+DTerm       = -0
+Total error = 0.084
+CTE           -0.0024
+PTerm       = -0.084
+ITerm       = 0
+DTerm       = 0
+Total error = 0.084
+CTE           0.0021
+PTerm       = 0.0735
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0735
+CTE           0.0021
+PTerm       = 0.0735
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0735
+CTE           -0.0018
+PTerm       = -0.063
+ITerm       = 0
+DTerm       = -0
+Total error = 0.063
+CTE           -0.0018
+PTerm       = -0.063
+ITerm       = 0
+DTerm       = 0
+Total error = 0.063
+CTE           -0.0016
+PTerm       = -0.056
+ITerm       = 0
+DTerm       = 0
+Total error = 0.056
+CTE           -0.0016
+PTerm       = -0.056
+ITerm       = 0
+DTerm       = 0
+Total error = 0.056
+CTE           -0.0016
+PTerm       = -0.056
+ITerm       = 0
+DTerm       = 0
+Total error = 0.056
+CTE           0.0014
+PTerm       = 0.049
+ITerm       = 0
+DTerm       = 0
+Total error = -0.049
+CTE           0.0014
+PTerm       = 0.049
+ITerm       = 0
+DTerm       = 0
+Total error = -0.049
+CTE           -0.0011
+PTerm       = -0.0385
+ITerm       = 0
+DTerm       = -0
+Total error = 0.0385
+CTE           -0.0011
+PTerm       = -0.0385
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0385
+CTE           0.0009
+PTerm       = 0.0315
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0315
+CTE           0.0009
+PTerm       = 0.0315
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0315
+CTE           0.0009
+PTerm       = 0.0315
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0315
+CTE           -0.0007
+PTerm       = -0.0245
+ITerm       = 0
+DTerm       = -0
+Total error = 0.0245
+CTE           -0.0007
+PTerm       = -0.0245
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0245
+CTE           -0.0005
+PTerm       = -0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0175
+CTE           -0.0005
+PTerm       = -0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0175
+CTE           -0.0004
+PTerm       = -0.014
+ITerm       = 0
+DTerm       = 0
+Total error = 0.014
+CTE           -0.0004
+PTerm       = -0.014
+ITerm       = 0
+DTerm       = 0
+Total error = 0.014
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = -0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = -0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0004
+PTerm       = -0.014
+ITerm       = 0
+DTerm       = -0
+Total error = 0.014
+CTE           -0.0004
+PTerm       = -0.014
+ITerm       = 0
+DTerm       = 0
+Total error = 0.014
+CTE           -0.0004
+PTerm       = -0.014
+ITerm       = 0
+DTerm       = 0
+Total error = 0.014
+CTE           -0.0004
+PTerm       = -0.014
+ITerm       = 0
+DTerm       = 0
+Total error = 0.014
+CTE           -0.0004
+PTerm       = -0.014
+ITerm       = 0
+DTerm       = 0
+Total error = 0.014
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0003
+PTerm       = -0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0105
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0002
+PTerm       = -0.007
+ITerm       = 0
+DTerm       = 0
+Total error = 0.007
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           -0.0001
+PTerm       = -0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = 0.0035
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0
+PTerm       = 0
+ITerm       = 0
+DTerm       = 0
+Total error = -0
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0001
+PTerm       = 0.0035
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0035
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = -0
+Total error = -0.007
+CTE           0.0002
+PTerm       = 0.007
+ITerm       = 0
+DTerm       = 0
+Total error = -0.007
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = -0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = -0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = -0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = -0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0003
+PTerm       = 0.0105
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0105
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = -0
+Total error = -0.014
+CTE           0.0004
+PTerm       = 0.014
+ITerm       = 0
+DTerm       = 0
+Total error = -0.014
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
+CTE           0.0005
+PTerm       = 0.0175
+ITerm       = 0
+DTerm       = 0
+Total error = -0.0175
