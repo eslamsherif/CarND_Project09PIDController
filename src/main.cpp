@@ -5,10 +5,20 @@
 #include <math.h>
 #include <cmath>
 #include <stdlib.h>
+#include <chrono>
 
 using namespace std;
 
-static double Thrttle_u = 0.1;
+static double Thrttle_u;
+static clock_t prevtime;
+
+const uint64_t nanos()
+{
+  /* Code obtained from here https://stackoverflow.com/questions/21856025/getting-an-accurate-execution-time-in-c-micro-seconds */
+  uint64_t ns = std::chrono::duration_cast<std::chrono::nanoseconds>(std::chrono::high_resolution_clock::
+                  now().time_since_epoch()).count();
+  return ns; 
+}
 
 // for convenience
 using json = nlohmann::json;
@@ -60,6 +70,7 @@ int main(int argc, char *argv[])
   else if( 1U == argc )
   {
     StrAngPid.Init();
+    Thrttle_u = 0.3;
   }
   else
   {
@@ -69,10 +80,13 @@ int main(int argc, char *argv[])
     exit(1);
   }
 
+  prevtime = nanos();
+
   h.onMessage([&StrAngPid](uWS::WebSocket<uWS::SERVER> ws, char *data, size_t length, uWS::OpCode opCode) {
     // "42" at the start of the message means there's a websocket message event.
     // The 4 signifies a websocket message
     // The 2 signifies a websocket event
+
     if (length && length > 2 && data[0] == '4' && data[1] == '2')
     {
       auto s = hasData(std::string(data).substr(0, length));
@@ -87,18 +101,10 @@ int main(int argc, char *argv[])
           
           cout << "CTE         = " << cte << endl;
           
-          /* TODO: support having a delta time calculated */
-          StrAngPid.UpdateError(cte, 1U);
+          StrAngPid.UpdateError(cte, (nanos() - prevtime) / 1000000000.0);
           
           double steer_value    = StrAngPid.TotalError();
           double throttle_value = Thrttle_u - (Thrttle_u * fabs(steer_value));
-          
-          /*
-          * TODO: Calcuate steering value here, remember the steering value is
-          * [-1, 1].
-          * NOTE: Feel free to play around with the throttle and speed. Maybe use
-          * another PID controller to control the speed!
-          */
           
           // DEBUG
           // std::cout << "CTE: " << cte << " Steering Value: " << steer_value << std::endl;
@@ -109,6 +115,7 @@ int main(int argc, char *argv[])
           auto msg = "42[\"steer\"," + msgJson.dump() + "]";
           // std::cout << msg << std::endl;
           ws.send(msg.data(), msg.length(), uWS::OpCode::TEXT);
+          prevtime = nanos();
         }
       } else {
         // Manual driving

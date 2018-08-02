@@ -5,11 +5,6 @@
 using namespace std;
 #endif
 
-
-/*
-* TODO: Complete the PID class.
-*/
-
 PID::PID() {}
 
 PID::~PID() {}
