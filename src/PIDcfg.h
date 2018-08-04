@@ -4,13 +4,13 @@
 #define DEBUG_GENERAL
 
 #ifdef DEBUG_GENERAL
-// #define DEBUG_INITIALIZATION
+#define DEBUG_INITIALIZATION
 // #define DEBUG_UPDATEERROR
-#define DEBUG_TOTALERROR
+// #define DEBUG_TOTALERROR
 #endif
 
-#define PROPORTIONAL_GAIN (0.6)
-#define DIFFERENTIAL_GAIN (0.001)
-#define INTEGRAL_GAIN     (15.0)
+#define PROPORTIONAL_GAIN (0.5)
+#define DIFFERENTIAL_GAIN (0.005)
+#define INTEGRAL_GAIN     (1.3)
 
 #endif /* PID_CFG_H */
