@@ -41,8 +41,8 @@ public:
   void Init(double __Kp = PROPORTIONAL_GAIN,
             double __Ki = DIFFERENTIAL_GAIN,
             double __Kd = INTEGRAL_GAIN,
-            double __min_out = 0U,
-            double __max_out = 0U);
+            double __min_out = -1.0,
+            double __max_out = 1.0);
 
   /*
   * Update the PID error variables given cross track error.
@@ -53,6 +53,9 @@ public:
   * Calculate the total PID error.
   */
   double TotalError();
+
+  /* Get Mean Output */
+  double Get_Mean_Output();
 };
 
 #endif /* PID_H */

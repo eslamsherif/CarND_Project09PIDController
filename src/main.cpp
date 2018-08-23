@@ -11,10 +11,13 @@ using namespace std;
 
 static double Thrttle_u;
 static clock_t prevtime;
+static double Decel_Threshold;
 
 /* Tuning Specific variables */
 static double tol;
 static unsigned long iterThreshold;
+
+#define NS_TO_SEC_FAC (1000000000.0)
 
 const uint64_t nanos()
 {
@@ -271,6 +274,7 @@ void run_PID(const bool init, char *argv[])
   }
 
   prevtime = nanos();
+  Decel_Threshold = StrAngPid.Get_Mean_Output();
 
   h.onMessage([&StrAngPid](uWS::WebSocket<uWS::SERVER> ws, char *data, size_t length, uWS::OpCode opCode) {
     /* "42" at the start of the message means there's a websocket message event. *
@@ -286,26 +290,41 @@ void run_PID(const bool init, char *argv[])
         if (event == "telemetry") {
           // j[1] is the data JSON object
           double cte = std::stod(j[1]["cte"].get<std::string>());
-          // double speed = std::stod(j[1]["speed"].get<std::string>());
+          double speed = std::stod(j[1]["speed"].get<std::string>());
           // double angle = std::stod(j[1]["steering_angle"].get<std::string>());
 
           cout << "CTE         = " << cte << endl;
 
-          StrAngPid.UpdateError(cte, (nanos() - prevtime) / 1000000000.0);
+          StrAngPid.UpdateError(cte, (nanos() - prevtime) / NS_TO_SEC_FAC);
 
           double steer_value    = StrAngPid.TotalError();
-          double throttle_value = Thrttle_u - (Thrttle_u * fabs(steer_value));
+          double throttle_value;
 
-          if(throttle_value == 0.0)
+          /* Throttle control logic is analgous to human behaviour.  */
+          /* Trhootle is inverlsy propsional to the steering angle   */
+          /* So the harder the steer the more deceleration is needed */
+          /* A seperate PID for the throttle seems like an overkill. */
+          if(3.0 >= speed)
           {
-            throttle_value = 0.1;
+              /* Car should not go in reverse set throttle value to small positive */
+              throttle_value = 0.3;
+          }
+          else if(Decel_Threshold > fabs(steer_value))
+          {
+              /* Steering angle change is not critical reduce speed with no deceleration */
+              throttle_value = Thrttle_u - (Thrttle_u * fabs(steer_value));
+          }
+          else
+          {
+              /* Steering angle change is critical, deceleration required.  */
+              throttle_value = -1.0 * Thrttle_u * fabs(steer_value);
           }
  
           json msgJson;
           msgJson["steering_angle"] = steer_value;
           msgJson["throttle"] = throttle_value;
           auto msg = "42[\"steer\"," + msgJson.dump() + "]";
-          std::cout << msg << std::endl;
+          // std::cout << msg << std::endl;
           ws.send(msg.data(), msg.length(), uWS::OpCode::TEXT);
           prevtime = nanos();
         }

@@ -1,4 +1,5 @@
 #include "PID.h"
+#include <math.h>
 
 #ifdef DEBUG_GENERAL
 #include <iostream>
@@ -80,3 +81,18 @@ double PID::TotalError()
   return toterr;
 }
 
+double PID::Get_Mean_Output()
+{
+    double max_mod = fabs(max_out);
+    double min_mod = fabs(min_out);
+
+    if( max_mod != min_mod )
+    {
+        cout << "Mean Calculation for ASymitrical Output range is not supported." << endl;
+        return 0.0;
+    }
+    else
+    {
+        return ( max_mod + min_mod ) / (4.0);
+    }
+}
