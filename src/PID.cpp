@@ -26,7 +26,7 @@ void PID::Init(double __Kp, double __Ki, double __Kd, double __min_out, double _
   previous_cte   = 0UL;
 
   #ifdef DEBUG_INITIALIZATION
-  cout << "PID Init complete." << endl;
+  cout << "Module PID > Init complete." << endl;
   cout << "Used Proportional gain = " << Kp << endl;
   cout << "Used Integral gain = " << Ki << endl;
   cout << "Used Differential gain = " << Kd << endl;

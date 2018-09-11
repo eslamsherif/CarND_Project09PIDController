@@ -19,6 +19,7 @@ PTerm = []
 ITerm = []
 DTerm = []
 toterr = []
+speed = []
 
 ParseThres = 14
 
@@ -42,10 +43,12 @@ for line in lines:
             DTerm.append(float(line[ParseThres:]))
         elif line[0] == "T":
             toterr.append(float(line[ParseThres:]))
+        elif line[0] == "S":
+            speed.append(float(line[ParseThres:]))
 
 file.close()
 
-fig, (ax1,ax2) = plt.subplots(2, 1, figsize=(8, 8))
+fig, (ax1,ax2, ax3) = plt.subplots(3, 1, figsize=(8, 8))
 # ax1.plot(cte    , 'm')
 # ax1.plot(p_error, 'y')
 # ax1.plot(i_error, 'w')
@@ -57,8 +60,10 @@ ITerm_L = mpatches.Patch(color='g', label='ITerm')
 ax1.plot(DTerm  , 'r--')
 DTerm_L = mpatches.Patch(color='r', label='DTerm')
 ax2.plot(toterr , 'r')
+ax3.plot(speed , 'b')
 ax1.set_title('PID Terms visualization')
 ax2.set_title('PID Total Error visualization')
+ax3.set_title('Vehicle Speed')
 ax1.legend(handles=[PTerm_L, ITerm_L, DTerm_L])
 
 plt.show()

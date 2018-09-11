@@ -274,7 +274,7 @@ void run_PID(const bool init, char *argv[])
   }
 
   prevtime = nanos();
-  Decel_Threshold = StrAngPid.Get_Mean_Output();
+  Decel_Threshold = StrAngPid.Get_Mean_Output() + 0.25;
 
   h.onMessage([&StrAngPid](uWS::WebSocket<uWS::SERVER> ws, char *data, size_t length, uWS::OpCode opCode) {
     /* "42" at the start of the message means there's a websocket message event. *
@@ -294,6 +294,7 @@ void run_PID(const bool init, char *argv[])
           // double angle = std::stod(j[1]["steering_angle"].get<std::string>());
 
           cout << "CTE         = " << cte << endl;
+          cout << "Speed       = " << speed << endl;
 
           StrAngPid.UpdateError(cte, (nanos() - prevtime) / NS_TO_SEC_FAC);
 
@@ -317,7 +318,7 @@ void run_PID(const bool init, char *argv[])
           else
           {
               /* Steering angle change is critical, deceleration required.  */
-              throttle_value = -1.0 * Thrttle_u * fabs(steer_value);
+              throttle_value = -1.0 * (Thrttle_u - (Thrttle_u * fabs(steer_value)));
           }
  
           json msgJson;
