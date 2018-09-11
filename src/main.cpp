@@ -270,11 +270,11 @@ void run_PID(const bool init, char *argv[])
   else
   {
     StrAngPid.Init();
-    Thrttle_u = 0.3;
+    Thrttle_u = 0.5; /* increased default limit for speed */
   }
 
   prevtime = nanos();
-  Decel_Threshold = StrAngPid.Get_Mean_Output() + 0.25;
+  Decel_Threshold = StrAngPid.Get_Mean_Output() + 0.4;
 
   h.onMessage([&StrAngPid](uWS::WebSocket<uWS::SERVER> ws, char *data, size_t length, uWS::OpCode opCode) {
     /* "42" at the start of the message means there's a websocket message event. *
@@ -308,19 +308,19 @@ void run_PID(const bool init, char *argv[])
           if(3.0 >= speed)
           {
               /* Car should not go in reverse set throttle value to small positive */
-              throttle_value = 0.3;
+              throttle_value = 1.0;
           }
           else if(Decel_Threshold > fabs(steer_value))
           {
               /* Steering angle change is not critical reduce speed with no deceleration */
-              throttle_value = Thrttle_u - (Thrttle_u * fabs(steer_value));
+              throttle_value = (Thrttle_u*2.0) - (Thrttle_u * fabs(steer_value));
           }
           else
           {
               /* Steering angle change is critical, deceleration required.  */
-              throttle_value = -1.0 * (Thrttle_u - (Thrttle_u * fabs(steer_value)));
+              throttle_value = -1.0 * ((Thrttle_u) - (Thrttle_u * fabs(steer_value)));
           }
- 
+
           json msgJson;
           msgJson["steering_angle"] = steer_value;
           msgJson["throttle"] = throttle_value;

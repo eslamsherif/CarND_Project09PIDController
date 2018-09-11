@@ -62,6 +62,9 @@ double PID::TotalError()
 
   double toterr = -1 * (PTerm + ITerm + DTerm);
 
+  #define SATURATE
+
+  #ifdef SATURATE
   if(toterr > max_out)
   {
     toterr = max_out;
@@ -70,6 +73,12 @@ double PID::TotalError()
   {
     toterr = min_out;
   }
+  #endif
+
+  #ifndef SATURATE
+  /* testing using tanh to see if it produce better result than the saturation solution */
+  toterr = tanh(toterr);
+  #endif
 
   #ifdef DEBUG_TOTALERROR
   cout << "PTerm       = " << PTerm << endl;
