@@ -313,7 +313,8 @@ void run_PID(const bool init, char *argv[])
           else if(Decel_Threshold > fabs(steer_value))
           {
               /* Steering angle change is not critical reduce speed with no deceleration */
-              throttle_value = (Thrttle_u*2.0) - (Thrttle_u * fabs(steer_value));
+              // throttle_value = (Thrttle_u*2.0) - (Thrttle_u * fabs(steer_value));
+              throttle_value = (Thrttle_u) - (Thrttle_u * fabs(steer_value));
           }
           else
           {

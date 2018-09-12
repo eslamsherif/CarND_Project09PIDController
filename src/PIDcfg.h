@@ -9,8 +9,8 @@
 // #define DEBUG_TOTALERROR
 #endif
 
-#define PROPORTIONAL_GAIN (0.7)
+#define PROPORTIONAL_GAIN (0.18)
 #define DIFFERENTIAL_GAIN (0.005)
-#define INTEGRAL_GAIN     (1.85)
+#define INTEGRAL_GAIN     (1.06)
 
 #endif /* PID_CFG_H */
